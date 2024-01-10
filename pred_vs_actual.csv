@@ -1,0 +1,1219 @@
+,source,Airport One,"City, Country One",dest,Airport Two,"City, Country Two",Actual,Prediction,Average_Degree
+472,18,Chicago O'Hare International Airport,"Chicago, US",52,Frankfurt am Main,"Frankfurt, DE",1,0.9,287.5
+262,58,Dubai International Airport,"Dubai, AE",80,Munich International Airport,"Munich, DE",1,0.9,259.5
+1260,12,New York John F. Kennedy International Airport,"New York, US",52,Frankfurt am Main,"Frankfurt, DE",1,0.9,257.0
+368,52,Frankfurt am Main,"Frankfurt, DE",122,"Seoul, Incheon International Airport","Seoul, KR",1,0.9,241.5
+1597,51,Paris Charles de Gaulle,"Paris, FR",178,Charlotte Douglas International Airport,"Charlotte, US",1,0.9,239.0
+903,51,Paris Charles de Gaulle,"Paris, FR",103,"Moscow, Sheremetyevo International Airport","Moscow, RU",1,0.9,237.5
+766,35,"Newark, Liberty","Newark, US",80,Munich International Airport,"Munich, DE",1,0.9,237.0
+1702,49,London Heathrow,"London, UK",58,Dubai International Airport,"Dubai, AE",1,0.9,234.5
+83,51,Paris Charles de Gaulle,"Paris, FR",122,"Seoul, Incheon International Airport","Seoul, KR",1,0.9,233.5
+990,51,Paris Charles de Gaulle,"Paris, FR",56,"Singapore, Changi International Airport","Singapore, SG",1,0.9,231.5
+1569,58,Dubai International Airport,"Dubai, AE",74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",1,0.9,227.0
+718,17,Minneapolis-St.Paul International Airport,"Minneapolis, US",70,Amsterdam Airport Schiphol,"Amsterdam, NL",1,0.9,222.5
+2357,50,London Gatwick,"London, UK",67,Shanghai - Pudong International Airport,"Shanghai, CN",1,0.9,222.5
+1415,64,Beijing Capital International Airport,"Beijing, CN",79,Brussels Airport,"Brussels, BE",1,0.9,221.5
+956,58,Dubai International Airport,"Dubai, AE",177,Copenhagen Kastrup Airport,"Copenhagen, DK",1,0.9,221.0
+1577,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",198,Dusseldorf International Airport,"Dusseldorf, DE",1,0.5,220.5
+423,52,Frankfurt am Main,"Frankfurt, DE",665,Shenzhen Bao'an International Airport,"Shenzhen, CN",1,0.9,219.5
+457,18,Chicago O'Hare International Airport,"Chicago, US",61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",1,0.5,219.5
+478,73,Barcelona International Airport,"Barcelona, ES",102,"Moscow, Domodedovo International Airport","Moscow, RU",1,0.9,218.0
+2243,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",79,Brussels Airport,"Brussels, BE",1,0.8,218.0
+2321,54,Tokyo Narita,"Tokyo, JP",70,Amsterdam Airport Schiphol,"Amsterdam, NL",1,0.9,215.0
+1987,52,Frankfurt am Main,"Frankfurt, DE",59,Indira Gandhi International Airport,"New Delhi, IN",1,0.9,214.0
+1810,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",76,Zurich-Kloten Airport,"Zurich, CH",1,0.9,211.5
+2148,35,"Newark, Liberty","Newark, US",84,Manchester Airport,"Manchester, UK",1,0.9,209.5
+1014,58,Dubai International Airport,"Dubai, AE",93,Stockholm-Arlanda Airport,"Stockholm, SE",1,0.9,208.0
+1081,13,Los Angeles International Airport,"Los Angeles, US",68,Leonardo da Vinci-Fiumicino International Airport,"Rome, IT",1,0.9,207.5
+642,13,Los Angeles International Airport,"Los Angeles, US",177,Copenhagen Kastrup Airport,"Copenhagen, DK",1,0.9,204.0
+215,50,London Gatwick,"London, UK",61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",1,0.9,203.0
+1032,69,"Mumbai, Chhatrapati Shivaji International Airport","Mumbai, IN",161,Istanbul International Airport,"Istanbul, TR",1,0.9,202.5
+1589,49,London Heathrow,"London, UK",178,Charlotte Douglas International Airport,"Charlotte, US",1,0.8,202.5
+243,35,"Newark, Liberty","Newark, US",68,Leonardo da Vinci-Fiumicino International Airport,"Rome, IT",1,0.9,202.0
+1757,22,Seattle-Tacoma,"Seattle, US",80,Munich International Airport,"Munich, DE",1,0.9,198.5
+96,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",84,Manchester Airport,"Manchester, UK",1,0.7,195.0
+303,54,Tokyo Narita,"Tokyo, JP",58,Dubai International Airport,"Dubai, AE",1,0.9,194.5
+715,47,Toronto Pearson International Airport,"Toronto, CA",177,Copenhagen Kastrup Airport,"Copenhagen, DK",1,0.9,194.5
+1124,64,Beijing Capital International Airport,"Beijing, CN",202,Lisbon Portela Airport,"Lisbon, PT",1,0.9,194.0
+392,70,Amsterdam Airport Schiphol,"Amsterdam, NL",228,Gran Canaria Airport,"Gran Canaria, ES",1,0.9,192.0
+334,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",202,Lisbon Portela Airport,"Lisbon, PT",1,0.8,190.5
+1633,75,Vienna International Airport,"Vienna, AT",122,"Seoul, Incheon International Airport","Seoul, KR",1,0.9,189.5
+1202,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",73,Barcelona International Airport,"Barcelona, ES",1,0.7,188.5
+588,58,Dubai International Airport,"Dubai, AE",92,Oslo Gardermoen Airport,"Oslo, NO",1,0.9,188.0
+1370,34,New Orleans L. Armstrong,"New Orleans, US",52,Frankfurt am Main,"Frankfurt, DE",1,0.6,187.0
+2268,70,Amsterdam Airport Schiphol,"Amsterdam, NL",567,Xiamen Gaoqi International Airport,"Xiamen, CN",1,0.9,186.5
+2011,56,"Singapore, Changi International Airport","Singapore, SG",73,Barcelona International Airport,"Barcelona, ES",1,0.9,186.0
+567,35,"Newark, Liberty","Newark, US",56,"Singapore, Changi International Airport","Singapore, SG",1,0.7,186.0
+890,70,Amsterdam Airport Schiphol,"Amsterdam, NL",149,Portland International Airport,"Portland, US",1,0.7,184.5
+1404,24,Norman Y. Mineta San Jose International Airport,"San Jose, US",52,Frankfurt am Main,"Frankfurt, DE",1,0.9,184.0
+1247,80,Munich International Airport,"Munich, DE",132,"Sao Paulo, Guarulhos - Governador Andras Franco Montoro International Airport","Sao Paulo, BR",1,0.5,184.0
+580,52,Frankfurt am Main,"Frankfurt, DE",353,Imam Khomeini International Airport,"Tehran, IR",1,0.9,183.5
+981,64,Beijing Capital International Airport,"Beijing, CN",140,Warsaw Chopin Airport,"Warsaw, PL",1,0.9,182.5
+151,51,Paris Charles de Gaulle,"Paris, FR",165,"Ho Chi Minh City, Tan Son Nhat International Airport","Ho Chi Minh City, VN",1,0.8,180.0
+2453,49,London Heathrow,"London, UK",337,Chengdu Shuangliu International Airport,"Chengdu, CN",1,0.8,180.0
+1093,80,Munich International Airport,"Munich, DE",126,"Johannesburg, OR Tambo International Airport","Johannesburg, ZA",1,0.1,180.0
+1291,84,Manchester Airport,"Manchester, UK",146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",1,0.9,179.5
+2425,67,Shanghai - Pudong International Airport,"Shanghai, CN",146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",1,0.9,178.0
+1230,51,Paris Charles de Gaulle,"Paris, FR",241,Punta Cana International Airport,"Punta Cana, DO",1,0.9,177.0
+1985,68,Leonardo da Vinci-Fiumicino International Airport,"Rome, IT",101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",1,0.9,177.0
+736,67,Shanghai - Pudong International Airport,"Shanghai, CN",72,"Prague, Ruzyne International Airport","Prague, CZ",1,0.3,177.0
+1948,16,Miami International Airport,"Miami, US",23,San Francisco International Airport,"San Francisco, US",1,0.9,176.5
+989,51,Paris Charles de Gaulle,"Paris, FR",184,Indianapolis International Airport,"Indianapolis, US",1,0.9,175.5
+34,55,Sydney Kingsford Smith,"Sydney, AU",64,Beijing Capital International Airport,"Beijing, CN",1,0.8,175.5
+2066,102,"Moscow, Domodedovo International Airport","Moscow, RU",329,Marseille Provence Airport,"Marseille, FR",1,0.9,175.0
+769,35,"Newark, Liberty","Newark, US",146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",1,0.9,173.0
+1587,73,Barcelona International Airport,"Barcelona, ES",146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",1,0.9,173.0
+54,161,Istanbul International Airport,"Istanbul, TR",349,Dhaka / Hazrat Shahjalal International Airport,"Dhaka, BD",1,0.5,172.5
+1400,58,Dubai International Airport,"Dubai, AE",347,Francisco de Sa Carneiro Airport,"Porto, PT",1,0.9,171.5
+595,23,San Francisco International Airport,"San Francisco, US",60,Dublin International Airport,"Dublin, IE",1,0.9,171.0
+1354,54,Tokyo Narita,"Tokyo, JP",68,Leonardo da Vinci-Fiumicino International Airport,"Rome, IT",1,0.9,171.0
+81,51,Paris Charles de Gaulle,"Paris, FR",163,Halifax / Stanfield International Airport,"Halifax, CA",1,0.8,169.5
+944,70,Amsterdam Airport Schiphol,"Amsterdam, NL",243,"San Jose, Juan Santamaria International Airport","San Jose, CR",1,0.9,169.0
+844,58,Dubai International Airport,"Dubai, AE",510,Thessaloniki Macedonia International Airport,"Thessaloniki, GR",1,0.9,168.0
+2199,67,Shanghai - Pudong International Airport,"Shanghai, CN",85,Montreal / Pierre Elliott Trudeau International Airport,"Montreal, CA",1,0.6,168.0
+997,75,Vienna International Airport,"Vienna, AT",665,Shenzhen Bao'an International Airport,"Shenzhen, CN",1,0.8,167.5
+1186,52,Frankfurt am Main,"Frankfurt, DE",562,Erbil International Airport,"Arbil, IQ",1,0.9,167.0
+92,30,Las Vegas Mc Carran,"Las Vegas, US",122,"Seoul, Incheon International Airport","Seoul, KR",1,0.8,167.0
+540,35,"Newark, Liberty","Newark, US",77,Geneva-Cointrin International Airport,"Geneva, CH",1,0.8,166.0
+1237,51,Paris Charles de Gaulle,"Paris, FR",573,Las Américas International Airport,"Santo Domingo, DO",1,0.9,165.5
+2029,161,Istanbul International Airport,"Istanbul, TR",355,Seychelles International Airport,"Mahe Island, SC",1,0.9,165.5
+2507,13,Los Angeles International Airport,"Los Angeles, US",903,Xi'an Xianyang International Airport,"Xianyang, CN",1,0.6,165.5
+491,23,San Francisco International Airport,"San Francisco, US",122,"Seoul, Incheon International Airport","Seoul, KR",1,0.9,165.0
+991,161,Istanbul International Airport,"Istanbul, TR",547,Kigali International Airport,"Kigali, RW",1,0.9,165.0
+2301,51,Paris Charles de Gaulle,"Paris, FR",293,"Sint Martin, Princess Juliana International Airport","Sint Martin, SX",1,0.7,164.5
+1903,80,Munich International Airport,"Munich, DE",353,Imam Khomeini International Airport,"Tehran, IR",1,0.9,164.0
+2286,11,George Bush Intercontinental,"Houston, US",205,Taiwan Taoyuan International Airport,"Taipei, TW",1,0.9,163.0
+1525,73,Barcelona International Airport,"Barcelona, ES",85,Montreal / Pierre Elliott Trudeau International Airport,"Montreal, CA",1,0.8,163.0
+2534,64,Beijing Capital International Airport,"Beijing, CN",861,Koltsovo Airport,"Yekaterinburg, RU",1,0.9,161.5
+207,79,Brussels Airport,"Brussels, BE",665,Shenzhen Bao'an International Airport,"Shenzhen, CN",1,0.6,161.5
+3239,161,Istanbul International Airport,"Istanbul, TR",1406,Haugesund Airport,"Karmøy, NO",0,0.8,161.0
+1140,58,Dubai International Airport,"Dubai, AE",303,"Algiers, Houari Boumediene Airport","Algiers, DZ",1,0.8,160.5
+413,12,New York John F. Kennedy International Airport,"New York, US",140,Warsaw Chopin Airport,"Warsaw, PL",1,0.9,160.0
+2430,80,Munich International Airport,"Munich, DE",243,"San Jose, Juan Santamaria International Airport","San Jose, CR",1,0.8,160.0
+4273,100,"Manila, Ninoy Aquino International Airport","Manila, PH",102,"Moscow, Domodedovo International Airport","Moscow, RU",0,0.5,160.0
+330,161,Istanbul International Airport,"Istanbul, TR",828,Annaba Airport,"Annabah, DZ",1,0.8,159.0
+978,51,Paris Charles de Gaulle,"Paris, FR",843,Ivato Airport,"Antananarivo, MG",1,0.4,159.0
+36,53,Helsinki Ventaa,"Helsinki, FI",106,"Doha, Hamad International Airport","Doha, QA",1,0.9,158.5
+499,47,Toronto Pearson International Airport,"Toronto, CA",677,Chongqing Jiangbei International Airport,"Chongqing, CN",1,0.8,158.5
+687,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",180,Cancun International Airport,"Cancun, MX",1,0.8,158.5
+1485,13,Los Angeles International Airport,"Los Angeles, US",55,Sydney Kingsford Smith,"Sydney, AU",1,0.7,158.0
+603,52,Frankfurt am Main,"Frankfurt, DE",2635,Uralsk Airport,"Uralsk, KZ",1,0.6,158.0
+59,49,London Heathrow,"London, UK",69,"Mumbai, Chhatrapati Shivaji International Airport","Mumbai, IN",1,0.3,158.0
+278,58,Dubai International Airport,"Dubai, AE",204,Tunis Carthage International Airport,"Tunis, TN",1,0.9,157.5
+1450,70,Amsterdam Airport Schiphol,"Amsterdam, NL",515,João Paulo II Airport,"Ponta Delgada, PT",1,0.9,157.5
+2464,51,Paris Charles de Gaulle,"Paris, FR",837,Lomé-Tokoin Airport,"Lomé, TG",1,0.9,156.5
+2528,47,Toronto Pearson International Airport,"Toronto, CA",59,Indira Gandhi International Airport,"New Delhi, IN",1,0.9,156.5
+3948,52,Frankfurt am Main,"Frankfurt, DE",3105,Haifa International Airport,"Haifa, IL",0,0.1,156.0
+747,76,Zurich-Kloten Airport,"Zurich, CH",665,Shenzhen Bao'an International Airport,"Shenzhen, CN",1,0.9,155.0
+1543,51,Paris Charles de Gaulle,"Paris, FR",852,Praia International Airport,"Praia, CV",1,0.6,155.0
+3834,51,Paris Charles de Gaulle,"Paris, FR",553,Samos Airport,"Samos Island, GR",0,0.9,154.5
+900,84,Manchester Airport,"Manchester, UK",144,Cairo International Airport,"Cairo, EG",1,0.7,153.5
+1156,80,Munich International Airport,"Munich, DE",125,Cape Town International Airport,"Cape Town, ZA",1,0.4,153.5
+2328,24,Norman Y. Mineta San Jose International Airport,"San Jose, US",64,Beijing Capital International Airport,"Beijing, CN",1,0.3,153.5
+1705,70,Amsterdam Airport Schiphol,"Amsterdam, NL",506,Kalamata Airport,"Kalamata, GR",1,0.8,152.5
+2429,37,Honolulu International Airport,"Honolulu, US",64,Beijing Capital International Airport,"Beijing, CN",1,0.4,152.5
+1142,13,Los Angeles International Airport,"Los Angeles, US",25,Tampa International Airport,"Tampa, US",1,0.9,152.0
+129,51,Paris Charles de Gaulle,"Paris, FR",839,Pointe Noire Airport,"Pointe Noire, CG",1,0.9,151.5
+468,18,Chicago O'Hare International Airport,"Chicago, US",293,"Sint Martin, Princess Juliana International Airport","Sint Martin, SX",1,0.9,150.0
+1290,70,Amsterdam Airport Schiphol,"Amsterdam, NL",564,Johan Adolf Pengel International Airport,"Zandery, SR",1,0.9,149.5
+2471,102,"Moscow, Domodedovo International Airport","Moscow, RU",165,"Ho Chi Minh City, Tan Son Nhat International Airport","Ho Chi Minh City, VN",1,0.9,149.5
+1295,80,Munich International Airport,"Munich, DE",480,Tromsø Airport,"Tromsø, NO",1,0.9,149.0
+1950,73,Barcelona International Airport,"Barcelona, ES",145,Addis Ababa Bole International Airport,"Addis Ababa, ET",1,0.9,149.0
+424,51,Paris Charles de Gaulle,"Paris, FR",1455,St Pierre Airport,"Saint-Pierre, PM",1,0.5,149.0
+2467,84,Manchester Airport,"Manchester, UK",504,Heraklion International Nikos Kazantzakis Airport,"Heraklion, GR",1,0.9,148.5
+2848,51,Paris Charles de Gaulle,"Paris, FR",3159,Lourdes de Blanc Sablon Airport,"Lourdes-De-Blanc-Sablon, CA",0,0.8,148.5
+370,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",131,"Rio de Janeiro ,Galeao Antonio Carlos Jobim International Airport","Rio de Janeiro, BR",1,0.9,147.5
+631,68,Leonardo da Vinci-Fiumicino International Airport,"Rome, IT",249,"Riyadh, King Khaled International Airport","Riyadh, SA",1,0.7,147.5
+3979,51,Paris Charles de Gaulle,"Paris, FR",1065,Lancaster Airport,"Lancaster, US",0,0.7,147.5
+265,54,Tokyo Narita,"Tokyo, JP",109,"Milan, Malpensa International Airport","Milan, IT",1,0.9,146.5
+2006,94,London Stansted Airport,"London, UK",139,Larnaca International Airport,"Larnaca, CY",1,0.9,146.5
+2406,12,New York John F. Kennedy International Airport,"New York, US",126,"Johannesburg, OR Tambo International Airport","Johannesburg, ZA",1,0.8,146.5
+58,76,Zurich-Kloten Airport,"Zurich, CH",180,Cancun International Airport,"Cancun, MX",1,0.8,146.0
+1433,64,Beijing Capital International Airport,"Beijing, CN",705,Kota Kinabalu International Airport,"Kota Kinabalu, MY",1,0.9,145.5
+1220,75,Vienna International Airport,"Vienna, AT",105,Tokyo Haneda International Airport,"Tokyo, JP",1,0.9,145.0
+2502,80,Munich International Airport,"Munich, DE",1190,Baghdad International Airport,"Baghdad, IQ",1,0.8,145.0
+164,80,Munich International Airport,"Munich, DE",802,Hosea Kutako International Airport,"Windhoek, nan",1,0.1,144.5
+114,18,Chicago O'Hare International Airport,"Chicago, US",196,"Maui, Kahului Airport","Kahului, US",1,0.9,144.0
+1651,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",584,Presidente Juscelino Kubistschek International Airport,"Brasília, BR",1,0.2,144.0
+80,47,Toronto Pearson International Airport,"Toronto, CA",97,Glasgow International Airport,"Glasgow, UK",1,0.9,143.5
+1303,56,"Singapore, Changi International Airport","Singapore, SG",59,Indira Gandhi International Airport,"New Delhi, IN",1,0.9,143.5
+1183,75,Vienna International Airport,"Vienna, AT",176,Nantes Atlantique Airport,"Nantes, FR",1,0.9,142.5
+2109,79,Brussels Airport,"Brussels, BE",144,Cairo International Airport,"Cairo, EG",1,0.7,142.5
+2226,26,San Diego Lindbergh,"San Diego, US",35,"Newark, Liberty","Newark, US",1,0.9,142.0
+593,64,Beijing Capital International Airport,"Beijing, CN",523,Malé International Airport,"Malé, MV",1,0.9,141.5
+2091,146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",251,Malaga Airport,"Malaga, ES",1,0.9,141.5
+2396,50,London Gatwick,"London, UK",522,Minsk International Airport,"Minsk, BY",1,0.9,141.5
+2409,45,Philadelphia International Airport,"Philadelphia, US",96,Edinburgh Airport,"Edinburgh, UK",1,0.9,141.5
+2420,15,Orlando International Airport,"Orlando, US",20,Phoenix Sky Harbor International Airport,"Phoenix, US",1,0.9,141.5
+811,92,Oslo Gardermoen Airport,"Oslo, NO",110,"Athens, Eleftherios Venizelos International Airport","Athens, GR",1,0.8,141.5
+2240,53,Helsinki Ventaa,"Helsinki, FI",101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",1,0.3,141.5
+1686,58,Dubai International Airport,"Dubai, AE",231,Adelaide International Airport,"Adelaide, AU",1,0.2,141.5
+668,12,New York John F. Kennedy International Airport,"New York, US",286,Queen Alia International Airport,"Amman, JO",1,0.9,140.5
+1288,31,Denver International Airport,"Denver, US",34,New Orleans L. Armstrong,"New Orleans, US",1,0.9,140.5
+2447,80,Munich International Airport,"Munich, DE",1193,Sulaymaniyah International Airport,"Sulaymaniyah, IQ",1,0.3,140.5
+1991,58,Dubai International Airport,"Dubai, AE",706,Clark International Airport,"Angeles City, PH",1,0.7,140.0
+1566,49,London Heathrow,"London, UK",234,Bali - Ngurah Rai International Airport,"Denpasar, ID",1,0.9,139.0
+4088,80,Munich International Airport,"Munich, DE",1510,Anqing Airport,"Anqing, CN",0,0.1,139.0
+699,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",653,Vilnius International Airport,"Vilnius, LT",1,0.9,138.5
+1346,8,Dallas/Fort Worth International Airport,"Dallas, US",196,"Maui, Kahului Airport","Kahului, US",1,0.8,138.0
+91,23,San Francisco International Airport,"San Francisco, US",59,Indira Gandhi International Airport,"New Delhi, IN",1,0.8,137.5
+2516,75,Vienna International Airport,"Vienna, AT",485,Lanzarote Airport,"Lanzarote Island, ES",1,0.9,137.0
+292,49,London Heathrow,"London, UK",162,Bahrain International Airport,"Manama, BH",1,0.6,137.0
+1020,146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",206,London Luton Airport,"London, UK",1,0.6,137.0
+694,53,Helsinki Ventaa,"Helsinki, FI",146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",1,0.9,136.5
+2123,23,San Francisco International Airport,"San Francisco, US",673,Kunming Wujiaba International Airport,"Kunming, CN",1,0.8,136.5
+2318,64,Beijing Capital International Airport,"Beijing, CN",1035,Yakutsk Airport,"Yakutsk, RU",1,0.8,136.5
+221,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",563,Mariscal Sucre International Airport,"Quito, EC",1,0.9,136.0
+941,92,Oslo Gardermoen Airport,"Oslo, NO",146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",1,0.9,135.5
+1502,12,New York John F. Kennedy International Airport,"New York, US",128,"Nairobi, Jomo Kenyatta International Airport","Nairobi, KE",1,0.9,135.5
+2105,58,Dubai International Airport,"Dubai, AE",822,Julius Nyerere International Airport,"Dar es Salaam, TZ",1,0.9,135.5
+599,59,Indira Gandhi International Airport,"New Delhi, IN",109,"Milan, Malpensa International Airport","Milan, IT",1,0.8,135.0
+44,49,London Heathrow,"London, UK",86,Edmonton International Airport,"Edmonton, CA",1,0.6,134.5
+596,60,Dublin International Airport,"Dublin, IE",139,Larnaca International Airport,"Larnaca, CY",1,0.9,133.0
+169,49,London Heathrow,"London, UK",119,Chennai International Airport,"Chennai, IN",1,0.8,133.0
+729,56,"Singapore, Changi International Airport","Singapore, SG",249,"Riyadh, King Khaled International Airport","Riyadh, SA",1,0.9,131.5
+2377,8,Dallas/Fort Worth International Airport,"Dallas, US",919,Jackson Hole Airport,"Jackson, US",1,0.9,131.5
+2010,12,New York John F. Kennedy International Airport,"New York, US",674,Fuzhou Changle International Airport,"Fuzhou, CN",1,0.1,131.5
+504,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",171,Pisa International Airport,"Pisa, IT",1,0.9,130.5
+2221,8,Dallas/Fort Worth International Airport,"Dallas, US",950,Montrose Regional Airport,"Montrose, US",1,0.9,130.5
+4028,8,Dallas/Fort Worth International Airport,"Dallas, US",2135,Oradea International Airport,"Oradea, RO",0,0.1,130.5
+1315,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",519,Sabiha Gökçen International Airport,"Istanbul, TR",1,0.5,130.0
+110,49,London Heathrow,"London, UK",256,"Islamabad, Benazir Bhutto International Airport","Islamabad, PK",1,0.9,129.5
+1397,336,Beirut Rafic Hariri International Airport,"Beirut, LB",3503,Berlin Brandenburg International Airport,"Berlin, DE",1,0.7,129.5
+2587,8,Dallas/Fort Worth International Airport,"Dallas, US",1179,Lar Airport,"Lar, IR",0,0.3,129.5
+2524,50,London Gatwick,"London, UK",219,V.C. Bird International Airport,"St. George, AG",1,0.5,129.0
+2573,64,Beijing Capital International Airport,"Beijing, CN",1920,Mallam Aminu International Airport,"Kano, NG",0,0.7,128.5
+1431,198,Dusseldorf International Airport,"Dusseldorf, DE",353,Imam Khomeini International Airport,"Tehran, IR",1,0.7,128.0
+1626,73,Barcelona International Airport,"Barcelona, ES",312,Jose Marti International Airport,"Havana, CU",1,0.7,128.0
+304,13,Los Angeles International Airport,"Los Angeles, US",638,Tahiti Faa'a International Airport,"Papeete, PF",1,0.8,127.5
+2102,58,Dubai International Airport,"Dubai, AE",739,Tiruchirapally Civil Airport Airport,"Tiruchirappally, IN",1,0.6,127.5
+250,106,"Doha, Hamad International Airport","Doha, QA",204,Tunis Carthage International Airport,"Tunis, TN",1,0.9,127.0
+558,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",303,"Algiers, Houari Boumediene Airport","Algiers, DZ",1,0.8,127.0
+37,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",577,Augusto C. Sandino (Managua) International Airport,"Managua, NI",1,0.9,126.5
+296,64,Beijing Capital International Airport,"Beijing, CN",2749,Mattala Rajapaksa International Airport,"Mattala, LK",1,0.9,126.5
+408,56,"Singapore, Changi International Airport","Singapore, SG",105,Tokyo Haneda International Airport,"Tokyo, JP",1,0.9,126.5
+401,58,Dubai International Airport,"Dubai, AE",2780,Madurai Airport,"Madurai, IN",1,0.7,126.5
+1204,94,London Stansted Airport,"London, UK",302,Tallinn Airport,"Tallinn, EE",1,0.7,126.5
+2498,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",383,Hector International Airport,"Fargo, US",1,0.9,126.0
+1564,79,Brussels Airport,"Brussels, BE",353,Imam Khomeini International Airport,"Tehran, IR",1,0.9,125.5
+755,1,Hartsfield - Jackson Atlanta International Airport,"Atlanta, US",221,"Bermuda, L.F. Wade International International Airport","Hamilton, BM",1,0.9,125.0
+1179,13,Los Angeles International Airport,"Los Angeles, US",268,Louisville International Standiford Field,"Louisville, US",1,0.8,125.0
+786,146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",486,Tenerife South Airport,"Tenerife Island, ES",1,0.9,124.5
+2469,110,"Athens, Eleftherios Venizelos International Airport","Athens, GR",249,"Riyadh, King Khaled International Airport","Riyadh, SA",1,0.9,124.5
+494,75,Vienna International Airport,"Vienna, AT",487,Al Massira Airport,"Agadir, MA",1,0.9,124.0
+585,69,"Mumbai, Chhatrapati Shivaji International Airport","Mumbai, IN",109,"Milan, Malpensa International Airport","Milan, IT",1,0.5,123.5
+287,106,"Doha, Hamad International Airport","Doha, QA",566,Tbilisi International Airport,"Tbilisi, GE",1,0.9,123.0
+2402,49,London Heathrow,"London, UK",348,Tripoli International Airport,"Tripoli, LY",1,0.9,123.0
+2661,5,Boston Logan,"Boston, US",255,Antalya International Airport,"Antalya, TR",0,1.0,122.5
+353,50,London Gatwick,"London, UK",1370,Banjul International Airport,"Banjul, GM",1,0.9,122.5
+23,94,London Stansted Airport,"London, UK",518,Milas Bodrum International Airport,"Bodrum, TR",1,0.9,122.0
+520,102,"Moscow, Domodedovo International Airport","Moscow, RU",2710,Novy Urengoy Airport,"Novy Urengoy, RU",1,0.9,122.0
+1949,101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",144,Cairo International Airport,"Cairo, EG",1,0.7,122.0
+3767,50,London Gatwick,"London, UK",609,Lehigh Valley International Airport,"Allentown, US",0,0.8,121.5
+3334,688,Jeju International Airport,"Jeju City, KR",3503,Berlin Brandenburg International Airport,"Berlin, DE",0,0.2,121.5
+734,89,Gothenburg-Landvetter Airport,"Gothenburg, SE",103,"Moscow, Sheremetyevo International Airport","Moscow, RU",1,0.9,121.0
+1996,31,Denver International Airport,"Denver, US",438,Syracuse Hancock International Airport,"Syracuse, US",1,0.9,121.0
+2368,23,San Francisco International Airport,"San Francisco, US",217,"Reykjavik, Keflavik International Airport","Reykjavik, IS",1,0.9,121.0
+1366,50,London Gatwick,"London, UK",2295,Aqaba King Hussein International Airport,"Aqaba, JO",1,0.7,121.0
+415,128,"Nairobi, Jomo Kenyatta International Airport","Nairobi, KE",250,Guangzhou Baiyun International Airport,"Guangzhou, CN",1,0.5,121.0
+1720,84,Manchester Airport,"Manchester, UK",219,V.C. Bird International Airport,"St. George, AG",1,0.2,121.0
+205,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",714,Taoxian Airport,"Shenyang, CN",1,0.9,120.5
+294,67,Shanghai - Pudong International Airport,"Shanghai, CN",1195,Manas International Airport,"Bishkek, KG",1,0.5,120.5
+1624,45,Philadelphia International Airport,"Philadelphia, US",173,Bologna Guglielmo Marconi Airport,"Bologna, IT",1,0.4,120.5
+2424,23,San Francisco International Airport,"San Francisco, US",671,Wuhan Tianhe International Airport,"Wuhan, CN",1,0.2,120.5
+1360,12,New York John F. Kennedy International Airport,"New York, US",420,El Salvador International Airport,"Santa Clara, SV",1,0.9,120.0
+1468,31,Denver International Airport,"Denver, US",196,"Maui, Kahului Airport","Kahului, US",1,0.9,120.0
+2162,87,Cologne Bonn Airport,"Cologne, DE",255,Antalya International Airport,"Antalya, TR",1,0.9,120.0
+655,79,Brussels Airport,"Brussels, BE",225,"Montego Bay, Sangster International Airport","Montego Bay, JM",1,0.9,119.5
+2163,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",336,Beirut Rafic Hariri International Airport,"Beirut, LB",1,0.9,119.0
+513,102,"Moscow, Domodedovo International Airport","Moscow, RU",2654,Ignatyevo Airport,"Blagoveschensk, RU",1,0.1,119.0
+641,35,"Newark, Liberty","Newark, US",91,Shannon Airport,"Shannon, IE",1,0.9,118.5
+1216,101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",567,Xiamen Gaoqi International Airport,"Xiamen, CN",1,0.9,118.5
+1483,206,London Luton Airport,"London, UK",486,Tenerife South Airport,"Tenerife Island, ES",1,0.9,118.5
+1708,49,London Heathrow,"London, UK",123,St. John's International Airport,"St. John's, CA",1,0.9,118.5
+1727,73,Barcelona International Airport,"Barcelona, ES",323,Kotoka International Airport,"Accra, GH",1,0.9,118.5
+1780,102,"Moscow, Domodedovo International Airport","Moscow, RU",2637,Pavlodar Airport,"Pavlodar, KZ",1,0.9,118.5
+2909,50,London Gatwick,"London, UK",1983,Arrachart Airport,"Antsiranana, MG",0,0.4,118.5
+1871,102,"Moscow, Domodedovo International Airport","Moscow, RU",2627,Kokshetau Airport,"Kokshetau, KZ",1,0.9,118.0
+2499,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",563,Mariscal Sucre International Airport,"Quito, EC",1,0.7,118.0
+1235,102,"Moscow, Domodedovo International Airport","Moscow, RU",2655,Ugolny Airport,"Anadyr, RU",1,0.0,117.5
+1998,75,Vienna International Airport,"Vienna, AT",3277,Ovda International Airport,"Eilat, IL",1,0.9,117.0
+830,102,"Moscow, Domodedovo International Airport","Moscow, RU",2676,Kirovsk-Apatity Airport,"Apatity, RU",1,0.7,117.0
+179,180,Cancun International Airport,"Cancun, MX",318,Vnukovo International Airport,"Moscow, RU",1,0.1,117.0
+1552,178,Charlotte Douglas International Airport,"Charlotte, US",243,"San Jose, Juan Santamaria International Airport","San Jose, CR",1,0.9,116.5
+2055,9,Fort Lauderdale/Hollywood International Airport,"Fort Lauderdale, US",99,Calgary International Airport,"Calgary, CA",1,0.9,116.5
+2367,31,Denver International Airport,"Denver, US",242,Harrisburg International Airport,"Harrisburg, US",1,0.8,116.0
+280,42,Oakland,"Oakland, US",93,Stockholm-Arlanda Airport,"Stockholm, SE",1,0.9,115.0
+77,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",306,La Aurora Airport,"Guatemala City, GT",1,0.7,115.0
+1749,101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",286,Queen Alia International Airport,"Amman, JO",1,0.7,115.0
+234,76,Zurich-Kloten Airport,"Zurich, CH",243,"San Jose, Juan Santamaria International Airport","San Jose, CR",1,0.6,115.0
+539,35,"Newark, Liberty","Newark, US",515,João Paulo II Airport,"Ponta Delgada, PT",1,0.9,114.5
+2190,471,Priština International Airport,"Prishtina, KS",3503,Berlin Brandenburg International Airport,"Berlin, DE",1,0.9,114.5
+1189,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",298,Jose Joaquin de Olmedo International Airport,"Guayaquil, EC",1,0.9,114.0
+41,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",594,Jose Maria Córdova International Airport,"Rionegro, CO",1,0.7,114.0
+801,79,Brussels Airport,"Brussels, BE",323,Kotoka International Airport,"Accra, GH",1,0.7,114.0
+899,75,Vienna International Airport,"Vienna, AT",355,Seychelles International Airport,"Mahe Island, SC",1,0.2,113.5
+893,79,Brussels Airport,"Brussels, BE",604,Léopold Sédar Senghor International Airport,"Dakar, SN",1,0.7,113.0
+626,96,Edinburgh Airport,"Edinburgh, UK",510,Thessaloniki Macedonia International Airport,"Thessaloniki, GR",1,0.8,112.0
+818,5,Boston Logan,"Boston, US",149,Portland International Airport,"Portland, US",1,0.9,111.5
+2358,15,Orlando International Airport,"Orlando, US",24,Norman Y. Mineta San Jose International Airport,"San Jose, US",1,0.8,111.5
+2167,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",1038,Irkutsk Airport,"Irkutsk, RU",1,0.9,111.0
+806,803,Jerez Airport,"Jerez de la Forntera, ES",3503,Berlin Brandenburg International Airport,"Berlin, DE",1,0.6,111.0
+600,68,Leonardo da Vinci-Fiumicino International Airport,"Rome, IT",3264,Ramenskoye Airport,"Zhukovsky, RU",1,0.9,110.5
+1743,16,Miami International Airport,"Miami, US",1559,Ingeniero Ambrosio Taravella Airport,"Cordoba, AR",1,0.9,110.5
+797,177,Copenhagen Kastrup Airport,"Copenhagen, DK",489,Amílcar Cabral International Airport,"Espargos, CV",1,0.8,110.0
+649,106,"Doha, Hamad International Airport","Doha, QA",534,Cardiff International Airport,"Cardiff, UK",1,0.7,110.0
+4193,13,Los Angeles International Airport,"Los Angeles, US",2645,Gyumri Shirak Airport,"Gyumri, AM",0,0.1,110.0
+502,53,Helsinki Ventaa,"Helsinki, FI",115,Ibiza Airport,"Ibiza, ES",1,0.9,109.5
+1208,141,Malta International Airport,"Luqa, MT",342,Boryspil International Airport,"Kiev, UA",1,0.9,109.5
+2519,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",154,Kuwait International Airport,"Kuwait, KW",1,0.8,109.5
+51,94,London Stansted Airport,"London, UK",3276,Olsztyn-Mazury Airport,"Szcytno, PL",1,0.6,109.5
+1583,241,Punta Cana International Airport,"Punta Cana, DO",346,Pulkovo Airport,"St. Petersburg, RU",1,0.2,109.5
+1734,11,George Bush Intercontinental,"Houston, US",575,Ramón Villeda Morales International Airport,"La Mesa, HN",1,0.9,109.0
+1896,35,"Newark, Liberty","Newark, US",909,Gallatin Field,"Bozeman, US",1,0.9,109.0
+1333,56,"Singapore, Changi International Airport","Singapore, SG",214,"Sapporo, New Chitose Airport","Sapporo, JP",1,0.8,109.0
+451,55,Sydney Kingsford Smith,"Sydney, AU",673,Kunming Wujiaba International Airport,"Kunming, CN",1,0.4,109.0
+245,96,Edinburgh Airport,"Edinburgh, UK",504,Heraklion International Nikos Kazantzakis Airport,"Heraklion, GR",1,0.9,108.5
+2288,35,"Newark, Liberty","Newark, US",434,Hewanorra International Airport,"Vieux Fort, LC",1,0.9,108.5
+3294,11,George Bush Intercontinental,"Houston, US",847,Senou Airport,"Senou, ML",0,0.4,108.5
+1979,168,Stuttgart Airport,"Stuttgart, DE",228,Gran Canaria Airport,"Gran Canaria, ES",1,0.9,108.0
+1520,54,Tokyo Narita,"Tokyo, JP",99,Calgary International Airport,"Calgary, CA",1,0.5,108.0
+3702,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",666,Hiroshima Airport,"Hiroshima, JP",0,0.5,108.0
+261,177,Copenhagen Kastrup Airport,"Copenhagen, DK",835,Monastir Habib Bourguiba International Airport,"Monastir, TN",1,0.9,107.5
+2169,146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",532,Nuremberg Airport,"Nuremberg, DE",1,0.9,107.5
+2324,30,Las Vegas Mc Carran,"Las Vegas, US",83,Southwest Florida International Airport,"Fort Myers, US",1,0.9,107.5
+4314,101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",3445,Beijing Daxing International Airport,"Beijing, CN",0,0.9,107.5
+3011,67,Shanghai - Pudong International Airport,"Shanghai, CN",3086,Birdsville Airport,"Birdsville, AU",0,0.1,107.5
+3879,12,New York John F. Kennedy International Airport,"New York, US",359,Central Illinois Regional Airport at Bloomington-Normal,"Bloomington/Normal, US",0,1.0,107.0
+704,11,George Bush Intercontinental,"Houston, US",909,Gallatin Field,"Bozeman, US",1,0.9,107.0
+2179,10,Washington Dulles International Airport,"Washington D.C., US",37,Honolulu International Airport,"Honolulu, US",1,0.9,107.0
+2026,177,Copenhagen Kastrup Airport,"Copenhagen, DK",696,Krabi Airport,"Krabi, TH",1,0.2,107.0
+2475,335,Almaty Airport,"Almaty, KZ",346,Pulkovo Airport,"St. Petersburg, RU",1,0.7,106.5
+2051,35,"Newark, Liberty","Newark, US",919,Jackson Hole Airport,"Jackson, US",1,0.5,106.5
+1359,79,Brussels Airport,"Brussels, BE",325,Entebbe International Airport,"Kampala, UG",1,0.4,106.5
+2433,110,"Athens, Eleftherios Venizelos International Airport","Athens, GR",459,Billund Airport,"Billund, DK",1,0.9,106.0
+1548,112,Budapest Ferenc Liszt International Airport,"Budapest, HU",338,Faro Airport,"Faro, PT",1,0.9,105.0
+501,16,Miami International Airport,"Miami, US",590,Silvio Pettirossi International Airport,"Asunción, PY",1,0.2,105.0
+1017,198,Dusseldorf International Airport,"Dusseldorf, DE",1144,Abel Santamaria Airport,"Santa Clara, CU",1,0.2,105.0
+1261,198,Dusseldorf International Airport,"Dusseldorf, DE",572,Casa De Campo International Airport,"La Romana, DO",1,0.7,104.5
+3523,74,Adolfo Suarez Barajas Airport International Airport,"Madrid, ES",2683,Kemerovo Airport,"Kemerovo, RU",0,0.2,104.5
+1636,106,"Doha, Hamad International Airport","Doha, QA",696,Krabi Airport,"Krabi, TH",1,0.4,103.5
+1568,198,Dusseldorf International Airport,"Dusseldorf, DE",1662,Kittila Airport,"Kittila, FI",1,0.9,103.0
+1551,177,Copenhagen Kastrup Airport,"Copenhagen, DK",1428,Toulon-Hyères Airport,"Toulon/Hyères/Le Palyvestre, FR",1,0.8,103.0
+1913,202,Lisbon Portela Airport,"Lisbon, PT",541,Gdańsk Lech Wałęsa Airport,"Gdańsk, PL",1,0.8,103.0
+594,101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",162,Bahrain International Airport,"Manama, BH",1,0.7,103.0
+268,55,Sydney Kingsford Smith,"Sydney, AU",164,Abu Dhabi International Airport,"Abu Dhabi, AE",1,0.9,102.5
+1394,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",1035,Yakutsk Airport,"Yakutsk, RU",1,0.9,102.5
+1853,122,"Seoul, Incheon International Airport","Seoul, KR",155,Phnom Penh International Airport,"Phnom Penh, KH",1,0.9,102.5
+3394,76,Zurich-Kloten Airport,"Zurich, CH",818,Borg El Arab International Airport,"Alexandria, EG",0,0.9,102.5
+1531,198,Dusseldorf International Airport,"Dusseldorf, DE",552,Kithira Airport,"Kithira Island, GR",1,0.6,102.0
+503,96,Edinburgh Airport,"Edinburgh, UK",484,Fuerteventura Airport,"Fuerteventura Island, ES",1,0.9,101.5
+2107,11,George Bush Intercontinental,"Houston, US",1121,Ciudad del Carmen International Airport,"Ciudad del Carmen, MX",1,0.9,101.0
+1723,177,Copenhagen Kastrup Airport,"Copenhagen, DK",1812,Kangerlussuaq Airport,"Kangerlussuaq, GL",1,0.2,101.0
+2366,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",294,"Fiji, Nadi International Airport","Nadi, FJ",1,0.8,100.5
+1769,198,Dusseldorf International Airport,"Dusseldorf, DE",3029,Zafer Airport,"Kutahya, TR",1,0.6,100.5
+448,106,"Doha, Hamad International Airport","Doha, QA",1726,Abeid Amani Karume International Airport,"Zanzibar, TZ",1,0.8,100.0
+3613,79,Brussels Airport,"Brussels, BE",2402,Hualien Airport,"Hualien City, TW",0,0.2,100.0
+864,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",1391,Chelyabinsk Balandino Airport,"Chelyabinsk, RU",1,0.9,99.5
+2435,53,Helsinki Ventaa,"Helsinki, FI",299,Nanjing Lukou Airport,"Nanjing, CN",1,0.9,99.5
+1464,47,Toronto Pearson International Airport,"Toronto, CA",1248,Kamloops Airport,"Kamloops, CA",1,0.4,99.5
+1477,250,Guangzhou Baiyun International Airport,"Guangzhou, CN",843,Ivato Airport,"Antananarivo, MG",1,0.1,99.5
+1109,259,"Rhodes, Diagoras Airport","Rhodes, GR",784,Brussels South Charleroi Airport,"Brussels, BE",1,0.9,99.0
+1444,451,Birmingham International Airport,"Birmingham, UK",485,Lanzarote Airport,"Lanzarote Island, ES",1,0.9,99.0
+1659,62,Perth International Airport,"Perth, AU",101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",1,0.9,99.0
+2219,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",2630,Osh Airport,"Osh, KG",1,0.8,99.0
+720,48,Vancouver International Airport,"Vancouver, CA",568,Hangzhou Xiaoshan International Airport,"Hangzhou, CN",1,0.4,99.0
+2144,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",81,Christchurch International Airport,"Christchurch, NZ",1,0.2,99.0
+1249,76,Zurich-Kloten Airport,"Zurich, CH",452,Inverness Airport,"Inverness, UK",1,0.9,98.5
+1829,107,"Paris, Orly Airport","Paris, FR",353,Imam Khomeini International Airport,"Tehran, IR",1,0.9,98.5
+2577,177,Copenhagen Kastrup Airport,"Copenhagen, DK",2557,German Olano Airport,"Puerto Carreño, CO",0,0.1,98.0
+238,20,Phoenix Sky Harbor International Airport,"Phoenix, US",41,"Cleveland, Hopkins International Airport","Cleveland, US",1,0.9,96.5
+1089,56,"Singapore, Changi International Airport","Singapore, SG",725,Cochin International Airport,"Cochin, IN",1,0.9,96.5
+1663,54,Tokyo Narita,"Tokyo, JP",201,"Colombo, Bandaranaike International Airport","Colombo, LK",1,0.9,96.5
+236,330,Henri Coanda International Airport,"Bucharest, RO",498,Valencia Airport,"Valencia, ES",1,0.8,96.0
+2164,230,Palma De Mallorca Airport,"Palma De Mallorca, ES",481,"Sandefjord Airport, Torp","Torp, NO",1,0.8,96.0
+2465,83,Southwest Florida International Airport,"Fort Myers, US",87,Cologne Bonn Airport,"Cologne, DE",1,0.5,96.0
+1497,87,Cologne Bonn Airport,"Cologne, DE",312,Jose Marti International Airport,"Havana, CU",1,0.9,95.5
+69,22,Seattle-Tacoma,"Seattle, US",147,Pittsburgh International Airport,"Pittsburgh, US",1,0.8,95.5
+3148,178,Charlotte Douglas International Airport,"Charlotte, US",447,Capital City Airport,"Lansing, US",0,1.0,95.0
+120,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",119,Chennai International Airport,"Chennai, IN",1,0.9,95.0
+2384,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",728,Francisco Bangoy International Airport,"Davao City, PH",1,0.8,95.0
+2452,106,"Doha, Hamad International Airport","Doha, QA",2303,Faisalabad International Airport,"Faisalabad, PK",1,0.7,95.0
+428,103,"Moscow, Sheremetyevo International Airport","Moscow, RU",2633,Sary-Arka Airport,"Karaganda, KZ",1,0.9,94.5
+1779,55,Sydney Kingsford Smith,"Sydney, AU",100,"Manila, Ninoy Aquino International Airport","Manila, PH",1,0.9,94.5
+233,109,"Milan, Malpensa International Airport","Milan, IT",573,Las Américas International Airport,"Santo Domingo, DO",1,0.8,94.5
+445,168,Stuttgart Airport,"Stuttgart, DE",484,Fuerteventura Airport,"Fuerteventura Island, ES",1,0.9,94.0
+2275,10,Washington Dulles International Airport,"Washington D.C., US",237,"Aruba, Queen Beatrix International Airport","Oranjestad, AW",1,0.9,94.0
+349,91,Shannon Airport,"Shannon, IE",230,Palma De Mallorca Airport,"Palma De Mallorca, ES",1,0.9,93.5
+1892,56,"Singapore, Changi International Airport","Singapore, SG",158,Gold Coast Airport,"Gold Coast, AU",1,0.8,93.5
+836,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",691,Saipan International Airport,"Saipan Island, MP",1,0.8,93.0
+3083,76,Zurich-Kloten Airport,"Zurich, CH",1430,Parma Airport,"Parma, IT",0,1.0,92.5
+1972,20,Phoenix Sky Harbor International Airport,"Phoenix, US",21,Raleigh-Durham,"Raleigh, US",1,0.8,92.5
+404,9,Fort Lauderdale/Hollywood International Airport,"Fort Lauderdale, US",588,Guararapes - Gilberto Freyre International Airport,"Recife, BR",1,0.5,92.5
+1207,66,Brisbane International Airport,"Brisbane, AU",164,Abu Dhabi International Airport,"Abu Dhabi, AE",1,0.5,92.5
+4,122,"Seoul, Incheon International Airport","Seoul, KR",2448,Puerto Princesa Airport,"Puerto Princesa City, PH",1,0.8,92.0
+407,56,"Singapore, Changi International Airport","Singapore, SG",1203,Chaudhary Charan Singh International Airport,"Lucknow, IN",1,0.8,92.0
+964,15,Orlando International Airport,"Orlando, US",263,City of Colorado Springs Municipal Airport,"Colorado Springs, US",1,0.8,92.0
+2092,285,Phuket International Airport,"Phuket, TH",318,Vnukovo International Airport,"Moscow, RU",1,0.6,92.0
+884,134,"Lima, Jorge Chavez International Airport","Lima, PE",136,"Mexico City, Licenciado Benito Juarez International Airport","Mexico City, MX",1,0.8,91.5
+2460,206,London Luton Airport,"London, UK",1390,Kiev Zhuliany International Airport,"Kiev, UA",1,0.9,91.0
+1905,346,Pulkovo Airport,"St. Petersburg, RU",2715,Roshchino International Airport,"Tyumen, RU",1,0.8,90.5
+2327,139,Larnaca International Airport,"Larnaca, CY",260,Bristol International Airport,"Bristol, UK",1,0.8,90.5
+917,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",231,Adelaide International Airport,"Adelaide, AU",1,0.9,90.0
+1259,77,Geneva-Cointrin International Airport,"Geneva, CH",522,Minsk International Airport,"Minsk, BY",1,0.9,90.0
+2257,164,Abu Dhabi International Airport,"Abu Dhabi, AE",235,Soekarno-Hatta International Airport,"Jakarta, ID",1,0.8,90.0
+4440,250,Guangzhou Baiyun International Airport,"Guangzhou, CN",3212,Sde Dov Airport,"Tel Aviv, IL",0,0.2,89.5
+1713,30,Las Vegas Mc Carran,"Las Vegas, US",1438,John C. Munro Hamilton International Airport,"Hamilton, CA",1,0.9,88.5
+1828,146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",483,Kaunas International Airport,"Kaunas, LT",1,0.7,88.5
+2228,136,"Mexico City, Licenciado Benito Juarez International Airport","Mexico City, MX",241,Punta Cana International Airport,"Punta Cana, DO",1,0.9,88.0
+696,205,Taiwan Taoyuan International Airport,"Taipei, TW",214,"Sapporo, New Chitose Airport","Sapporo, JP",1,0.8,88.0
+2993,250,Guangzhou Baiyun International Airport,"Guangzhou, CN",2808,Ranong Airport,"Ranong, TH",0,0.8,88.0
+510,56,"Singapore, Changi International Airport","Singapore, SG",2785,Paro Airport,"Paro, BT",1,0.3,88.0
+455,20,Phoenix Sky Harbor International Airport,"Phoenix, US",184,Indianapolis International Airport,"Indianapolis, US",1,0.9,87.5
+2084,451,Birmingham International Airport,"Birmingham, UK",494,Paphos International Airport,"Paphos, CY",1,0.9,87.5
+3954,61,Hong Kong - Chek Lap Kok International Airport,"Hong Kong, HK",2894,Raja Haji Fisabilillah International Airport,"Tanjung Pinang-Bintan Island, ID",0,0.6,87.5
+4092,122,"Seoul, Incheon International Airport","Seoul, KR",2965,Qamdo Bangda Airport,"Bangda, CN",0,0.6,87.5
+512,30,Las Vegas Mc Carran,"Las Vegas, US",649,London Airport,"London, CA",1,0.9,87.0
+1011,48,Vancouver International Airport,"Vancouver, CA",676,Liuting Airport,"Qingdao, CN",1,0.8,86.0
+3527,15,Orlando International Airport,"Orlando, US",378,Yeager Airport,"Charleston, US",0,1.0,85.5
+141,235,Soekarno-Hatta International Airport,"Jakarta, ID",249,"Riyadh, King Khaled International Airport","Riyadh, SA",1,0.3,85.5
+2003,202,Lisbon Portela Airport,"Lisbon, PT",1586,Salgado Filho Airport,"Porto Alegre, BR",1,0.2,85.5
+1338,346,Pulkovo Airport,"St. Petersburg, RU",1392,Bolshoye Savino Airport,"Perm, RU",1,0.9,85.0
+2486,93,Stockholm-Arlanda Airport,"Stockholm, SE",1649,Lycksele Airport,"Lycksele, SE",1,0.7,85.0
+1000,72,"Prague, Ruzyne International Airport","Prague, CZ",3277,Ovda International Airport,"Eilat, IL",1,0.9,84.5
+2153,458,Chubu Centrair International Airport,"Tokoname, JP",903,Xi'an Xianyang International Airport,"Xianyang, CN",1,0.8,84.5
+1134,335,Almaty Airport,"Almaty, KZ",519,Sabiha Gökçen International Airport,"Istanbul, TR",1,0.5,84.5
+1883,346,Pulkovo Airport,"St. Petersburg, RU",2633,Sary-Arka Airport,"Karaganda, KZ",1,0.5,83.5
+470,17,Minneapolis-St.Paul International Airport,"Minneapolis, US",916,Glacier Park International Airport,"Kalispell, US",1,0.9,82.0
+1240,92,Oslo Gardermoen Airport,"Oslo, NO",789,Pula Airport,"Pula, HR",1,0.9,82.0
+1742,318,Vnukovo International Airport,"Moscow, RU",1038,Irkutsk Airport,"Irkutsk, RU",1,0.8,82.0
+804,107,"Paris, Orly Airport","Paris, FR",843,Ivato Airport,"Antananarivo, MG",1,0.1,82.0
+3210,23,San Francisco International Airport,"San Francisco, US",1343,Sheikh ul Alam Airport,"Srinagar, IN",0,0.1,82.0
+3518,30,Las Vegas Mc Carran,"Las Vegas, US",654,Agra Airport,"Agra, IN",0,0.1,82.0
+2317,346,Pulkovo Airport,"St. Petersburg, RU",2708,Pobedilovo Airport,"Kirov, RU",1,0.9,81.5
+1095,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",322,Jaipur International Airport,"Jaipur, IN",1,0.7,81.5
+24,346,Pulkovo Airport,"St. Petersburg, RU",2642,Lankaran International Airport,"Lankaran, AZ",1,0.8,81.0
+972,77,Geneva-Cointrin International Airport,"Geneva, CH",354,Sir Seewoosagur Ramgoolam International Airport,"Port Louis, MU",1,0.3,81.0
+3853,110,"Athens, Eleftherios Venizelos International Airport","Athens, GR",2735,Syktyvkar Airport,"Syktyvkar, RU",0,0.3,81.0
+976,105,Tokyo Haneda International Airport,"Tokyo, JP",235,Soekarno-Hatta International Airport,"Jakarta, ID",1,0.9,80.5
+1146,101,Suvarnabhumi Bangkok International Airport,"Bangkok, TH",1336,Chandigarh Airport,"Chandigarh, IN",1,0.5,80.5
+3376,346,Pulkovo Airport,"St. Petersburg, RU",3186,Zhob Airport,"Fort Sandeman, PK",0,0.5,80.5
+4251,45,Philadelphia International Airport,"Philadelphia, US",1426,Zaragoza Air Base,"Zaragoza, ES",0,0.2,80.5
+1601,346,Pulkovo Airport,"St. Petersburg, RU",3361,Bryansk Airport,"Bryansk, RU",1,0.8,80.0
+1306,141,Malta International Airport,"Luqa, MT",254,Aberdeen Dyce Airport,"Aberdeen, UK",1,0.9,79.5
+1745,259,"Rhodes, Diagoras Airport","Rhodes, GR",326,Hannover Airport,"Hannover, DE",1,0.9,79.5
+1954,55,Sydney Kingsford Smith,"Sydney, AU",234,Bali - Ngurah Rai International Airport,"Denpasar, ID",1,0.9,79.5
+1788,54,Tokyo Narita,"Tokyo, JP",158,Gold Coast Airport,"Gold Coast, AU",1,0.7,79.5
+1550,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",2762,Luang Phabang International Airport,"Luang Phabang, LA",1,0.9,79.0
+2315,29,Salt Lake City,"Salt Lake City, US",83,Southwest Florida International Airport,"Fort Myers, US",1,0.9,79.0
+383,146,"Tel Aviv, Ben Gurion International Airport","Tel Aviv, IL",637,Lublin Airport,"Lublin, PL",1,0.9,78.5
+610,320,Astana International Airport,"Astana, KZ",722,Sharjah International Airport,"Sharjah, AE",1,0.9,78.5
+2193,230,Palma De Mallorca Airport,"Palma De Mallorca, ES",1300,Kemi-Tornio Airport,"Kemi / Tornio, FI",1,0.5,78.5
+212,318,Vnukovo International Airport,"Moscow, RU",523,Malé International Airport,"Malé, MV",1,0.3,78.5
+1806,252,"Funchal, Madeira Airport","Funchal, PT",328,Lyon Saint-Exupery Airport,"Lyon, FR",1,0.9,78.0
+1874,108,Nice-Cote d'Azur Airport,"Nice, FR",302,Tallinn Airport,"Tallinn, EE",1,0.9,78.0
+1401,87,Cologne Bonn Airport,"Cologne, DE",802,Hosea Kutako International Airport,"Windhoek, nan",1,0.0,78.0
+4435,141,Malta International Airport,"Luqa, MT",789,Pula Airport,"Pula, HR",0,1.0,77.5
+2491,338,Faro Airport,"Faro, PT",532,Nuremberg Airport,"Nuremberg, DE",1,0.9,77.5
+2525,248,Riga International Airport,"Riga, LV",566,Tbilisi International Airport,"Tbilisi, GE",1,0.9,77.5
+3897,315,Jinnah International Airport,"Karachi, PK",903,Xi'an Xianyang International Airport,"Xianyang, CN",0,0.9,77.5
+555,202,Lisbon Portela Airport,"Lisbon, PT",1714,Maputo Airport,"Maputo, MZ",1,0.2,77.5
+557,121,Bengaluru International Airport,"Bengaluru, IN",164,Abu Dhabi International Airport,"Abu Dhabi, AE",1,0.8,77.0
+254,173,Bologna Guglielmo Marconi Airport,"Bologna, IT",566,Tbilisi International Airport,"Tbilisi, GE",1,0.7,76.5
+1772,109,"Milan, Malpensa International Airport","Milan, IT",3441,Al Alamein International Airport,"Dabaa, EG",1,0.4,76.5
+883,69,"Mumbai, Chhatrapati Shivaji International Airport","Mumbai, IN",353,Imam Khomeini International Airport,"Tehran, IR",1,0.9,76.0
+1044,206,London Luton Airport,"London, UK",1224,Sarajevo International Airport,"Sarajevo, BA",1,0.9,76.0
+1819,69,"Mumbai, Chhatrapati Shivaji International Airport","Mumbai, IN",234,Bali - Ngurah Rai International Airport,"Denpasar, ID",1,0.8,76.0
+1384,87,Cologne Bonn Airport,"Cologne, DE",1315,Gazipaşa Airport,"Gazipaşa, TR",1,0.5,75.5
+2111,107,"Paris, Orly Airport","Paris, FR",1219,Antonio Maceo International Airport,"Santiago, CU",1,0.2,75.5
+2270,215,King Abdulaziz International Airport,"Jeddah, SA",315,Jinnah International Airport,"Karachi, PK",1,0.9,75.0
+1758,6,Baltimore/Washington International Airport,"Baltimore, US",24,Norman Y. Mineta San Jose International Airport,"San Jose, US",1,0.8,74.5
+1768,92,Oslo Gardermoen Airport,"Oslo, NO",496,San Javier Airport,"San Javier, ES",1,0.3,74.5
+3155,71,Kuala Lumpur International Airport,"Kuala Lumpur, MY",623,MBS International Airport,"Saginaw, US",0,0.1,74.5
+1015,501,Ajaccio-Napoléon Bonaparte Airport,"Ajaccio/Napoléon Bonaparte, FR",784,Brussels South Charleroi Airport,"Brussels, BE",1,0.9,74.0
+3301,90,Venice Marco Polo Airport,"Venice, IT",239,Jacksonville International Airport,"Jacksonville, US",0,0.1,74.0
+2184,176,Nantes Atlantique Airport,"Nantes, FR",485,Lanzarote Airport,"Lanzarote Island, ES",1,0.9,73.5
+20,201,"Colombo, Bandaranaike International Airport","Colombo, LK",249,"Riyadh, King Khaled International Airport","Riyadh, SA",1,0.8,73.0
+559,20,Phoenix Sky Harbor International Airport,"Phoenix, US",238,Norfolk International Airport,"Norfolk, US",1,0.9,72.5
+887,107,"Paris, Orly Airport","Paris, FR",1675,Castres-Mazamet Airport,"Castres/Mazamet, FR",1,0.9,72.5
+1158,107,"Paris, Orly Airport","Paris, FR",1681,Cayenne-Rochambeau Airport,"Cayenne / Rochambeau, GF",1,0.0,72.5
+2428,318,Vnukovo International Airport,"Moscow, RU",355,Seychelles International Airport,"Mahe Island, SC",1,0.3,72.0
+2885,54,Tokyo Narita,"Tokyo, JP",3054,Akureyri Airport,"Akureyri, IS",0,0.1,72.0
+1357,665,Shenzhen Bao'an International Airport,"Shenzhen, CN",1478,Lianshui Airport,"Huai'an, CN",1,0.9,71.5
+1722,206,London Luton Airport,"London, UK",470,Clermont-Ferrand Auvergne Airport,"Clermont-Ferrand/Auvergne, FR",1,0.9,71.5
+395,113,Alicante International Airport,"Alicante, ES",480,Tromsø Airport,"Tromsø, NO",1,0.8,71.5
+2152,353,Imam Khomeini International Airport,"Tehran, IR",694,Don Mueang International Airport,"Bangkok, TH",1,0.3,71.5
+3836,286,Queen Alia International Airport,"Amman, JO",507,Ioannis Kapodistrias International Airport,"Kerkyra Island, GR",0,1.0,71.0
+1364,107,"Paris, Orly Airport","Paris, FR",1673,Agen-La Garenne Airport,"Agen/La Garenne, FR",1,0.7,71.0
+1869,317,Ashgabat Airport,"Ashgabat, TM",451,Birmingham International Airport,"Birmingham, UK",1,0.6,71.0
+3015,107,"Paris, Orly Airport","Paris, FR",2141,Amasya Merzifon Airport,"Amasya, TR",0,0.4,71.0
+4234,54,Tokyo Narita,"Tokyo, JP",1156,Delta County Airport,"Escanaba, US",0,0.4,71.0
+449,133,"Buenos Aires, Ministro Pistarini International Airport","Buenos Aires, AR",417,Tocumen International Airport,"Panama City, PA",1,0.8,70.5
+25,255,Antalya International Airport,"Antalya, TR",481,"Sandefjord Airport, Torp","Torp, NO",1,0.7,70.5
+2468,131,"Rio de Janeiro ,Galeao Antonio Carlos Jobim International Airport","Rio de Janeiro, BR",417,Tocumen International Airport,"Panama City, PA",1,0.7,70.5
+2307,92,Oslo Gardermoen Airport,"Oslo, NO",1315,Gazipaşa Airport,"Gazipaşa, TR",1,0.6,70.5
+4238,202,Lisbon Portela Airport,"Lisbon, PT",2414,Yeosu Airport,"Yeosu, KR",0,0.2,70.5
+1922,42,Oakland,"Oakland, US",187,Lambert St Louis International Airport,"St Louis, US",1,0.9,70.0
+1930,53,Helsinki Ventaa,"Helsinki, FI",490,Rabil Airport,"Rabil, CV",1,0.6,70.0
+2458,100,"Manila, Ninoy Aquino International Airport","Manila, PH",162,Bahrain International Airport,"Manama, BH",1,0.3,70.0
+1875,169,Genoa Cristoforo Colombo Airport,"Genoa, IT",330,Henri Coanda International Airport,"Bucharest, RO",1,0.9,69.5
+680,141,Malta International Airport,"Luqa, MT",1367,Gothenburg City Airport,"Gothenburg, SE",1,0.7,69.5
+3392,87,Cologne Bonn Airport,"Cologne, DE",650,Waterloo Regional Airport,"Waterloo, US",0,0.1,69.5
+1051,275,Sevilla Airport,"Sevilla, ES",513,Falcone–Borsellino Airport,"Palermo, IT",1,0.9,69.0
+3567,220,"St. Thomas, Cyril E. King Airport","Charlotte Amalie, VI",784,Brussels South Charleroi Airport,"Brussels, BE",0,0.8,69.0
+2245,784,Brussels South Charleroi Airport,"Brussels, BE",1224,Sarajevo International Airport,"Sarajevo, BA",1,0.7,69.0
+1660,507,Ioannis Kapodistrias International Airport,"Kerkyra Island, GR",532,Nuremberg Airport,"Nuremberg, DE",1,0.9,68.5
+1824,139,Larnaca International Airport,"Larnaca, CY",175,Verona Villafranca Airport,"Verona, IT",1,0.9,68.5
+2009,349,Dhaka / Hazrat Shahjalal International Airport,"Dhaka, BD",722,Sharjah International Airport,"Sharjah, AE",1,0.9,68.5
+2233,4,Nashville International Airport,"Nashville, US",42,Oakland,"Oakland, US",1,0.9,68.5
+1222,228,Gran Canaria Airport,"Gran Canaria, ES",453,Salzburg Airport,"Salzburg, AT",1,0.8,68.0
+1250,203,Gibraltar Airport,"Gibraltar, GI",206,London Luton Airport,"London, UK",1,0.6,68.0
+3600,167,Hamburg Airport,"Hamburg, DE",1311,Turku Airport,"Turku, FI",0,1.0,67.5
+622,214,"Sapporo, New Chitose Airport","Sapporo, JP",694,Don Mueang International Airport,"Bangkok, TH",1,0.9,67.5
+390,318,Vnukovo International Airport,"Moscow, RU",2689,Norilsk-Alykel Airport,"Norilsk, RU",1,0.6,67.0
+1688,228,Gran Canaria Airport,"Gran Canaria, ES",481,"Sandefjord Airport, Torp","Torp, NO",1,0.2,67.0
+4409,451,Birmingham International Airport,"Birmingham, UK",2692,Gelendzhik Airport,"Gelendzhik, RU",0,0.2,67.0
+2287,566,Tbilisi International Airport,"Tbilisi, GE",861,Koltsovo Airport,"Yekaterinburg, RU",1,0.9,66.5
+619,86,Edmonton International Airport,"Edmonton, CA",217,"Reykjavik, Keflavik International Airport","Reykjavik, IS",1,0.8,66.5
+1214,205,Taiwan Taoyuan International Airport,"Taipei, TW",2411,Hanamaki Airport,"Morioka, JP",1,0.5,66.5
+318,113,Alicante International Airport,"Alicante, ES",1401,Bodø Airport,"Bodø, NO",1,0.3,66.5
+4060,451,Birmingham International Airport,"Birmingham, UK",622,Greenbrier Valley Airport,"Lewisburg, US",0,0.2,66.5
+586,673,Kunming Wujiaba International Airport,"Kunming, CN",2793,U-Tapao International Airport,"Rayong, TH",1,0.9,66.0
+2314,285,Phuket International Airport,"Phuket, TH",905,Zhengzhou Xinzheng International Airport,"Zhengzhou, CN",1,0.9,66.0
+220,482,John Paul II International Airport Kraków-Balice Airport,"Kraków, PL",3277,Ovda International Airport,"Eilat, IL",1,0.8,66.0
+1257,6,Baltimore/Washington International Airport,"Baltimore, US",244,Sacramento International Airport,"Sacramento, US",1,0.8,66.0
+854,59,Indira Gandhi International Airport,"New Delhi, IN",1192,Al Najaf International Airport,"Najaf, IQ",1,0.9,65.0
+2461,212,Fukuoka Airport,"Fukuoka, JP",694,Don Mueang International Airport,"Bangkok, TH",1,0.9,65.0
+161,144,Cairo International Airport,"Cairo, EG",345,Quatro de Fevereiro Airport,"Luanda, AO",1,0.8,65.0
+845,318,Vnukovo International Airport,"Moscow, RU",2706,Beloyarskiy Airport,"Beloyarskiy, RU",1,0.8,65.0
+4095,793,Il Caravaggio International Airport,"Bergamo, IT",2758,Cox's Bazar Airport,"Cox's Bazar, BD",0,0.2,65.0
+1101,92,Oslo Gardermoen Airport,"Oslo, NO",1402,Bardufoss Airport,"Målselv, NO",1,0.9,64.5
+2082,89,Gothenburg-Landvetter Airport,"Gothenburg, SE",485,Lanzarote Airport,"Lanzarote Island, ES",1,0.9,64.5
+230,57,Melbourne International Airport,"Melbourne, AU",672,Haikou Meilan International Airport,"Haikou, CN",1,0.5,64.5
+291,318,Vnukovo International Airport,"Moscow, RU",2725,Bukhara Airport,"Bukhara, UZ",1,0.4,64.5
+1696,697,Samui Airport,"Na Thon (Ko Samui Island), TH",903,Xi'an Xianyang International Airport,"Xianyang, CN",1,0.2,64.5
+1074,126,"Johannesburg, OR Tambo International Airport","Johannesburg, ZA",345,Quatro de Fevereiro Airport,"Luanda, AO",1,0.9,64.0
+1463,113,Alicante International Airport,"Alicante, ES",1406,Haugesund Airport,"Karmøy, NO",1,0.8,64.0
+3877,140,Warsaw Chopin Airport,"Warsaw, PL",1192,Al Najaf International Airport,"Najaf, IQ",0,0.8,64.0
+970,519,Sabiha Gökçen International Airport,"Istanbul, TR",1315,Gazipaşa Airport,"Gazipaşa, TR",1,0.7,64.0
+708,20,Phoenix Sky Harbor International Airport,"Phoenix, US",899,Ixtapa Zihuatanejo International Airport,"Ixtapa, MX",1,0.9,63.5
+1486,85,Montreal / Pierre Elliott Trudeau International Airport,"Montreal, CA",1434,Baie Comeau Airport,"Baie-Comeau, CA",1,0.9,63.5
+1730,259,"Rhodes, Diagoras Airport","Rhodes, GR",331,Rotterdam Airport,"Rotterdam, NL",1,0.8,63.5
+663,123,St. John's International Airport,"St. John's, CA",180,Cancun International Airport,"Cancun, MX",1,0.7,63.5
+3499,19,Palm Beach International Airport,"West Palm Beach, US",97,Glasgow International Airport,"Glasgow, UK",0,0.1,63.5
+2389,722,Sharjah International Airport,"Sharjah, AE",818,Borg El Arab International Airport,"Alexandria, EG",1,0.9,63.0
+1856,485,Lanzarote Airport,"Lanzarote Island, ES",1264,Frankfurt-Hahn Airport,"Hahn, DE",1,0.8,62.5
+1501,164,Abu Dhabi International Airport,"Abu Dhabi, AE",355,Seychelles International Airport,"Mahe Island, SC",1,0.8,62.0
+4175,85,Montreal / Pierre Elliott Trudeau International Airport,"Montreal, CA",2598,Cacique Aramare Airport,"Puerto Ayacucho, VE",0,0.1,62.0
+2099,671,Wuhan Tianhe International Airport,"Wuhan, CN",695,Chiang Mai International Airport,"Chiang Mai, TH",1,0.9,61.5
+323,417,Tocumen International Airport,"Panama City, PA",589,Deputado Luiz Eduardo Magalhães International Airport,"Salvador, BR",1,0.7,61.5
+1313,286,Queen Alia International Airport,"Amman, JO",1265,Memmingen Allgau Airport,"Memmingen, DE",1,0.5,61.5
+1162,135,"Santiago, Comodoro Arturo Merino Benitez International Airport","Santiago, CL",241,Punta Cana International Airport,"Punta Cana, DO",1,0.2,61.5
+109,59,Indira Gandhi International Airport,"New Delhi, IN",2782,Vir Savarkar International Airport,"Port Blair, IN",1,0.9,61.0
+111,342,Boryspil International Airport,"Kiev, UA",1196,Kharkiv International Airport,"Kharkiv, UA",1,0.9,61.0
+999,147,Pittsburgh International Airport,"Pittsburgh, US",186,Dallas Love Field,"Dallas, US",1,0.9,61.0
+1471,3,Austin Bergstrom International Airport,"Austin, US",362,Des Moines International Airport,"Des Moines, US",1,0.9,61.0
+746,296,Richmond International Airport,"Richmond, US",549,Orlando Sanford International Airport,"Orlando, US",1,0.8,61.0
+1112,132,"Sao Paulo, Guarulhos - Governador Andras Franco Montoro International Airport","Sao Paulo, BR",1574,Pinto Martins International Airport,"Fortaleza, BR",1,0.9,60.5
+1308,347,Francisco de Sa Carneiro Airport,"Porto, PT",515,João Paulo II Airport,"Ponta Delgada, PT",1,0.5,60.5
+4326,141,Malta International Airport,"Luqa, MT",1175,Bandar Lengeh Airport,"Bandar Lengeh, IR",0,0.3,60.5
+2693,140,Warsaw Chopin Airport,"Warsaw, PL",1672,Ouarzazate Airport,"Ouarzazate, MA",0,0.2,60.5
+3772,673,Kunming Wujiaba International Airport,"Kunming, CN",1658,Visby Airport,"Visby, SE",0,0.1,60.5
+1899,33,San Antonio,"San Antonio, US",42,Oakland,"Oakland, US",1,0.9,60.0
+3289,20,Phoenix Sky Harbor International Airport,"Phoenix, US",1097,Dillingham Airport,"Dillingham, US",0,0.2,60.0
+2585,673,Kunming Wujiaba International Airport,"Kunming, CN",3291,Shikezi Huayuan Airport,"Shikezi, CN",0,1.0,59.5
+2414,332,Mohammed V International Airport,"Casablanca, MA",339,Lungi International Airport,"Freetown, SL",1,0.9,59.5
+1911,40,"Puerto Rico, Luis Munoz International Airport","San Juan, PR",183,Cincinnati Northern Kentucky International Airport,"Cincinnati, US",1,0.8,59.5
+1944,42,Oakland,"Oakland, US",184,Indianapolis International Airport,"Indianapolis, US",1,0.8,59.5
+3175,140,Warsaw Chopin Airport,"Warsaw, PL",967,St Cloud Regional Airport,"St Cloud, US",0,0.1,59.5
+1120,142,Sofia Airport,"Sofia, BG",1205,Al Maktoum International Airport,"Jebel Ali, AE",1,0.9,59.0
+367,37,Honolulu International Airport,"Honolulu, US",42,Oakland,"Oakland, US",1,0.8,59.0
+3807,475,Belfast International Airport,"Belfast, UK",541,Gdańsk Lech Wałęsa Airport,"Gdańsk, PL",0,0.8,59.0
+2484,224,"Lagos,Murtala Muhammed International Airport","Lagos, NG",299,Nanjing Lukou Airport,"Nanjing, CN",1,0.3,59.0
+2180,668,Tianjin Binhai International Airport,"Tianjin, CN",675,Ningbo Lishe International Airport,"Ningbo, CN",1,0.9,58.5
+3043,264,Huntsville International Carl T Jones Field,"Huntsville, US",486,Tenerife South Airport,"Tenerife Island, ES",0,0.9,58.5
+345,136,"Mexico City, Licenciado Benito Juarez International Airport","Mexico City, MX",3368,Venustiano Carranza International Airport,"Monclova, MX",1,0.8,58.5
+896,689,Gimhae International Airport,"Busan, KR",714,Taoxian Airport,"Shenyang, CN",1,0.8,58.0
+4421,171,Pisa International Airport,"Pisa, IT",316,Alama Iqbal International Airport,"Lahore, PK",0,0.6,58.0
+1879,215,King Abdulaziz International Airport,"Jeddah, SA",2263,Al Baha Airport,"Al Baha, SA",1,0.9,57.5
+2311,332,Mohammed V International Airport,"Casablanca, MA",834,Diori Hamani International Airport,"Niamey, NE",1,0.9,57.5
+3005,228,Gran Canaria Airport,"Gran Canaria, ES",702,Chinggis Khaan International Airport,"Ulaanbaatar, MN",0,0.6,57.5
+2745,98,Liverpool John Lennon Airport,"Liverpool, UK",1178,Mashhad International Airport,"Mashhad, IR",0,0.3,57.5
+616,492,Sharm El Sheikh International Airport,"Sharm el-Sheikh, EG",532,Nuremberg Airport,"Nuremberg, DE",1,0.7,57.0
+517,482,John Paul II International Airport Kraków-Balice Airport,"Kraków, PL",1311,Turku Airport,"Turku, FI",1,0.9,56.5
+3799,215,King Abdulaziz International Airport,"Jeddah, SA",1402,Bardufoss Airport,"Målselv, NO",0,0.5,56.5
+477,95,East Midlands Airport,"Nottingham, UK",494,Paphos International Airport,"Paphos, CY",1,0.8,56.0
+1498,568,Hangzhou Xiaoshan International Airport,"Hangzhou, CN",2822,Cam Ranh Airport,"Nha Trang, VN",1,0.8,56.0
+3113,149,Portland International Airport,"Portland, US",518,Milas Bodrum International Airport,"Bodrum, TR",0,0.4,56.0
+1429,187,Lambert St Louis International Airport,"St Louis, US",195,"Puerto Vallarta, Licenciado Gustavo Diaz Ordaz International Airport","Puerto Vallarta, MX",1,0.9,55.5
+1438,228,Gran Canaria Airport,"Gran Canaria, ES",852,Praia International Airport,"Praia, CV",1,0.9,55.5
+1609,253,Leeds Bradford Airport,"Leeds, UK",454,Kos Airport,"Kos Island, GR",1,0.9,55.5
+2510,255,Antalya International Airport,"Antalya, TR",2693,Uytash Airport,"Makhachkala, RU",1,0.9,55.5
+476,360,El Dorado International Airport,"Bogota, CO",588,Guararapes - Gilberto Freyre International Airport,"Recife, BR",1,0.2,55.5
+566,34,New Orleans L. Armstrong,"New Orleans, US",189,General Mitchell International Airport,"Milwaukee, US",1,0.9,55.0
+2545,145,Addis Ababa Bole International Airport,"Addis Ababa, ET",832,Ouagadougou Airport,"Ouagadougou, BF",1,0.8,55.0
+3131,69,"Mumbai, Chhatrapati Shivaji International Airport","Mumbai, IN",832,Ouagadougou Airport,"Ouagadougou, BF",0,0.2,55.0
+1352,330,Henri Coanda International Airport,"Bucharest, RO",1431,Perugia San Francesco d'Assisi – Umbria International Airport,"Perugia, IT",1,0.9,54.5
+2188,722,Sharjah International Airport,"Sharjah, AE",1167,Hail Regional Airport,"Ha'il, SA",1,0.9,54.5
+2220,274,Eindhoven Airport,"Eindhoven, NL",824,Skopje Alexander the Great Airport,"Skopje, MK",1,0.9,54.0
+3425,722,Sharjah International Airport,"Sharjah, AE",2635,Uralsk Airport,"Uralsk, KZ",0,0.8,54.0
+2681,722,Sharjah International Airport,"Sharjah, AE",2428,Cagayan De Oro Airport,"Cagayan De Oro City, PH",0,0.2,54.0
+279,174,"Venice, Treviso-Sant Angelo Airport","Venice, IT",1390,Kiev Zhuliany International Airport,"Kiev, UA",1,0.9,53.5
+748,712,Longjia Airport,"Changchun, CN",861,Koltsovo Airport,"Yekaterinburg, RU",1,0.9,53.5
+3413,342,Boryspil International Airport,"Kiev, UA",1431,Perugia San Francesco d'Assisi – Umbria International Airport,"Perugia, IT",0,0.9,53.5
+3414,309,Stewart International Airport,"Newburgh, US",347,Francisco de Sa Carneiro Airport,"Porto, PT",0,0.9,53.5
+394,98,Liverpool John Lennon Airport,"Liverpool, UK",518,Milas Bodrum International Airport,"Bodrum, TR",1,0.8,53.5
+1322,2807,Ürümqi Diwopu International Airport,"Ürümqi, CN",2937,Shijiazhuang Daguocun International Airport,"Shijiazhuang, CN",1,0.8,53.5
+482,484,Fuerteventura Airport,"Fuerteventura Island, ES",533,Leipzig Halle Airport,"Leipzig, DE",1,0.7,53.5
+2293,190,Chicago Midway International Airport,"Chicago, US",227,"Little Rock, Bill and Hillary Clinton National Airport/Adams Field","Little Rock, US",1,0.9,53.0
+189,249,"Riyadh, King Khaled International Airport","Riyadh, SA",3420,Kannurl International Airport,"Kannur, IN",1,0.7,52.5
+2313,254,Aberdeen Dyce Airport,"Aberdeen, UK",507,Ioannis Kapodistrias International Airport,"Kerkyra Island, GR",1,0.6,52.5
+1709,144,Cairo International Airport,"Cairo, EG",1741,Benina International Airport,"Benghazi, LY",1,0.9,52.0
+4197,55,Sydney Kingsford Smith,"Sydney, AU",2505,Monte Dourado Airport,"Almeirim, BR",0,0.7,52.0
+1480,116,Menorca Airport,"Menorca, ES",261,Newcastle Airport,"Newcastle, UK",1,0.5,52.0
+640,549,Orlando Sanford International Airport,"Orlando, US",612,Wilkes Barre Scranton International Airport,"Wilkes-Barre/Scranton, US",1,0.4,52.0
+1917,342,Boryspil International Airport,"Kiev, UA",2671,Ivano-Frankivsk International Airport,"Ivano-Frankivsk, UA",1,0.1,52.0
+4406,809,Podgorica Airport,"Podgorica, ME",810,Tolmachevo Airport,"Novosibirsk, RU",0,0.1,52.0
+387,142,Sofia Airport,"Sofia, BG",3277,Ovda International Airport,"Eilat, IL",1,0.9,51.5
+399,352,Tashkent International Airport,"Tashkent, UZ",2697,Sochi International Airport,"Sochi, RU",1,0.9,51.5
+1914,199,Antonio B. Won Pat International Airport,"Hagta, GU",213,"Osaka, Kansai International Airport","Osaka, JP",1,0.9,51.5
+2181,190,Chicago Midway International Airport,"Chicago, US",605,Bob Hope Airport,"Burbank, US",1,0.8,51.5
+2523,669,Changsha Huanghua International Airport,"Changsha, CN",2799,Chiang Rai International Airport,"Chiang Rai, TH",1,0.7,51.5
+3342,255,Antalya International Airport,"Antalya, TR",2482,Alta Floresta Airport,"Alta Floresta, BR",0,0.1,51.5
+2462,568,Hangzhou Xiaoshan International Airport,"Hangzhou, CN",2409,Mt. Fuji Shizuoka Airport,"Makinohara / Shimada, JP",1,0.9,51.0
+3522,26,San Diego Lindbergh,"San Diego, US",152,Greater Rochester International Airport,"Rochester, US",0,0.9,51.0
+1943,91,Shannon Airport,"Shannon, IE",485,Lanzarote Airport,"Lanzarote Island, ES",1,0.8,51.0
+403,166,Winnipeg / James Armstrong Richardson International Airport,"Winnipeg, CA",1274,St Petersburg Clearwater International Airport,"St Petersburg-Clearwater, US",1,0.8,50.5
+788,658,Burgas Airport,"Burgas, BG",1264,Frankfurt-Hahn Airport,"Hahn, DE",1,0.9,50.0
+2229,279,Dubrovnik Airport,"Dubrovnik, HR",481,"Sandefjord Airport, Torp","Torp, NO",1,0.9,50.0
+1918,176,Nantes Atlantique Airport,"Nantes, FR",835,Monastir Habib Bourguiba International Airport,"Monastir, TN",1,0.8,50.0
+3236,185,Kansas City International Airport,"Kansas City, US",481,"Sandefjord Airport, Torp","Torp, NO",0,0.1,50.0
+800,347,Francisco de Sa Carneiro Airport,"Porto, PT",2113,Saint-Étienne-Bouthéon Airport,"Saint-Étienne/Bouthéon, FR",1,0.9,49.5
+4384,176,Nantes Atlantique Airport,"Nantes, FR",435,Akron Canton Regional Airport,"Akron, US",0,0.1,49.5
+3991,286,Queen Alia International Airport,"Amman, JO",835,Monastir Habib Bourguiba International Airport,"Monastir, TN",0,0.7,49.0
+2689,228,Gran Canaria Airport,"Gran Canaria, ES",1745,Dimokritos Airport,"Alexandroupolis, GR",0,0.2,49.0
+1292,463,Peretola Airport,"Firenze, IT",513,Falcone–Borsellino Airport,"Palermo, IT",1,0.9,48.5
+2205,34,New Orleans L. Armstrong,"New Orleans, US",395,Gerald R. Ford International Airport,"Grand Rapids, US",1,0.9,48.5
+3354,228,Gran Canaria Airport,"Gran Canaria, ES",2628,Petropavlosk South Airport,"Petropavlosk, KZ",0,0.2,48.5
+4076,145,Addis Ababa Bole International Airport,"Addis Ababa, ET",2430,Pagadian Airport,"Pagadian City, PH",0,0.1,48.5
+324,694,Don Mueang International Airport,"Bangkok, TH",1328,Biju Patnaik Airport,"Bhubaneswar, IN",1,0.9,48.0
+925,678,Longdongbao Airport,"Guiyang, CN",1524,Wenzhou Yongqiang Airport,"Wenzhou, CN",1,0.9,48.0
+444,126,"Johannesburg, OR Tambo International Airport","Johannesburg, ZA",1716,Pemba Airport,"Pemba / Porto Amelia, MZ",1,0.9,47.5
+2042,457,Kaohsiung International Airport,"Kaohsiung City, TW",458,Chubu Centrair International Airport,"Tokoname, JP",1,0.9,47.5
+3143,294,"Fiji, Nadi International Airport","Nadi, FJ",485,Lanzarote Airport,"Lanzarote Island, ES",0,0.3,47.5
+1559,252,"Funchal, Madeira Airport","Funchal, PT",475,Belfast International Airport,"Belfast, UK",1,0.9,47.0
+1841,510,Thessaloniki Macedonia International Airport,"Thessaloniki, GR",1928,Lappeenranta Airport,"Lappeenranta, FI",1,0.9,47.0
+2239,498,Valencia Airport,"Valencia, ES",2671,Ivano-Frankivsk International Airport,"Ivano-Frankivsk, UA",1,0.2,47.0
+1436,253,Leeds Bradford Airport,"Leeds, UK",258,"Zakynthos, Dionysios Solomos Airport","Zakynthos, GR",1,0.6,46.5
+3393,144,Cairo International Airport,"Cairo, EG",1829,Foshan Shadi Airport,"Foshan, CN",0,0.2,46.5
+3959,39,El Paso International Airport,"El Paso, US",41,"Cleveland, Hopkins International Airport","Cleveland, US",0,1.0,46.0
+913,810,Tolmachevo Airport,"Novosibirsk, RU",1039,Ulan-Ude Airport (Mukhino),"Ulan Ude, RU",1,0.9,46.0
+1209,26,San Diego Lindbergh,"San Diego, US",444,Yampa Valley Airport,"Hayden, US",1,0.9,46.0
+1658,126,"Johannesburg, OR Tambo International Airport","Johannesburg, ZA",1718,Vilankulo Airport,"Vilanculo, MZ",1,0.9,46.0
+2139,1035,Yakutsk Airport,"Yakutsk, RU",1044,Taiping Airport,"Harbin, CN",1,0.9,46.0
+1995,131,"Rio de Janeiro ,Galeao Antonio Carlos Jobim International Airport","Rio de Janeiro, BR",345,Quatro de Fevereiro Airport,"Luanda, AO",1,0.3,46.0
+168,810,Tolmachevo Airport,"Novosibirsk, RU",2710,Novy Urengoy Airport,"Novy Urengoy, RU",1,0.9,45.5
+1300,323,Kotoka International Airport,"Accra, GH",336,Beirut Rafic Hariri International Airport,"Beirut, LB",1,0.6,45.5
+3129,119,Chennai International Airport,"Chennai, IN",331,Rotterdam Airport,"Rotterdam, NL",0,0.1,45.5
+710,1265,Memmingen Allgau Airport,"Memmingen, DE",1368,Stockholm Skavsta Airport,"Stockholm / Nyköping, SE",1,0.7,45.0
+260,333,Ibn Batouta Airport,"Tangier, MA",791,Paris Beauvais Tillé Airport,"Beauvais/Tillé, FR",1,0.9,44.5
+2437,810,Tolmachevo Airport,"Novosibirsk, RU",2701,Salekhard Airport,"Salekhard, RU",1,0.9,44.5
+2530,494,Paphos International Airport,"Paphos, CY",1368,Stockholm Skavsta Airport,"Stockholm / Nyköping, SE",1,0.9,44.5
+839,541,Gdańsk Lech Wałęsa Airport,"Gdańsk, PL",1196,Kharkiv International Airport,"Kharkiv, UA",1,0.6,44.5
+3485,100,"Manila, Ninoy Aquino International Airport","Manila, PH",2056,Kufra Airport,"Kufra, LY",0,0.1,44.5
+437,694,Don Mueang International Airport,"Bangkok, TH",2797,Nan Airport,"Nan, TH",1,0.9,44.0
+573,133,"Buenos Aires, Ministro Pistarini International Airport","Buenos Aires, AR",589,Deputado Luiz Eduardo Magalhães International Airport,"Salvador, BR",1,0.9,44.0
+1385,303,"Algiers, Houari Boumediene Airport","Algiers, DZ",832,Ouagadougou Airport,"Ouagadougou, BF",1,0.8,44.0
+764,66,Brisbane International Airport,"Brisbane, AU",974,Queenstown International Airport,"Queenstown, NZ",1,0.7,44.0
+1006,801,Poznań-Ławica Airport,"Poznań, PL",1390,Kiev Zhuliany International Airport,"Kiev, UA",1,0.7,44.0
+1440,679,Nanning Wuxu Airport,"Nanning, CN",1524,Wenzhou Yongqiang Airport,"Wenzhou, CN",1,0.1,44.0
+799,689,Gimhae International Airport,"Busan, KR",709,Siem Reap International Airport,"Siem Reap, KH",1,0.8,43.5
+2898,217,"Reykjavik, Keflavik International Airport","Reykjavik, IS",1751,Filippos Airport,"Kozani, GR",0,0.6,43.5
+2241,253,Leeds Bradford Airport,"Leeds, UK",496,San Javier Airport,"San Javier, ES",1,0.5,43.5
+1578,98,Liverpool John Lennon Airport,"Liverpool, UK",1271,Szczecin-Goleniów Solidarność Airport,"Goleniow, PL",1,0.3,43.5
+2690,504,Heraklion International Nikos Kazantzakis Airport,"Heraklion, GR",1289,Vance W. Amory International Airport,"Charlestown, KN",0,0.3,43.5
+369,66,Brisbane International Airport,"Brisbane, AU",998,Orange Airport,"Orange, AU",1,0.9,43.0
+1203,668,Tianjin Binhai International Airport,"Tianjin, CN",1478,Lianshui Airport,"Huai'an, CN",1,0.9,43.0
+2130,105,Tokyo Haneda International Airport,"Tokyo, JP",753,Wakkanai Airport,"Wakkanai, JP",1,0.9,43.0
+492,335,Almaty Airport,"Almaty, KZ",2737,Kazan International Airport,"Kazan, RU",1,0.6,43.0
+1353,861,Koltsovo Airport,"Yekaterinburg, RU",2710,Novy Urengoy Airport,"Novy Urengoy, RU",1,0.9,42.5
+200,352,Tashkent International Airport,"Tashkent, UZ",812,Nizhny Novgorod International Airport,"Nizhny Novgorod, RU",1,0.8,42.5
+320,42,Oakland,"Oakland, US",196,"Maui, Kahului Airport","Kahului, US",1,0.8,42.5
+2635,504,Heraklion International Nikos Kazantzakis Airport,"Heraklion, GR",1862,Natashquan Airport,"Natashquan, CA",0,0.1,42.5
+1598,128,"Nairobi, Jomo Kenyatta International Airport","Nairobi, KE",844,Libreville Leon M'ba International Airport,"Libreville, GA",1,0.9,42.0
+601,475,Belfast International Airport,"Belfast, UK",521,Enfidha - Hammamet International Airport,"Enfidha, TN",1,0.7,42.0
+1175,121,Bengaluru International Airport,"Bengaluru, IN",354,Sir Seewoosagur Ramgoolam International Airport,"Port Louis, MU",1,0.7,42.0
+4150,810,Tolmachevo Airport,"Novosibirsk, RU",2901,Minangkabau Airport,"Ketaping/Padang-Sumatra Island, ID",0,0.1,42.0
+2138,252,"Funchal, Madeira Airport","Funchal, PT",533,Leipzig Halle Airport,"Leipzig, DE",1,0.6,41.5
+4217,179,Luxembourg-Findel International Airport,"Luxembourg, LU",1039,Ulan-Ude Airport (Mukhino),"Ulan Ude, RU",0,0.1,41.5
+3926,287,Bergen Airport Flesland,"Bergen, NO",1282,Comiso Airport,"Comiso, IT",0,0.9,41.0
+4361,213,"Osaka, Kansai International Airport","Osaka, JP",2838,Kyaukpyu Airport,"Kyaukpyu, MM",0,0.9,41.0
+1627,532,Nuremberg Airport,"Nuremberg, DE",1221,Marsa Alam International Airport,"Marsa Alam, EG",1,0.8,41.0
+4029,88,London City Airport,"London, UK",563,Mariscal Sucre International Airport,"Quito, EC",0,0.1,41.0
+4102,171,Pisa International Airport,"Pisa, IT",2012,Bangoka International Airport,"Kisangani, CD",0,0.1,41.0
+3290,714,Taoxian Airport,"Shenyang, CN",1498,Bailian Airport,"Liuzhou, CN",0,1.0,40.0
+553,63,Auckland International Airport,"Auckland, NZ",971,Nausori International Airport,"Nausori, FJ",1,0.9,40.0
+711,57,Melbourne International Airport,"Melbourne, AU",999,Karratha Airport,"Karratha, AU",1,0.9,40.0
+828,43,Tucson International Airport,"Tucson, US",184,Indianapolis International Airport,"Indianapolis, US",1,0.9,40.0
+1610,99,Calgary International Airport,"Calgary, CA",1258,Whitehorse / Erik Nielsen International Airport,"Whitehorse, CA",1,0.9,40.0
+1004,811,Dushanbe Airport,"Dushanbe, TJ",1197,Krasnodar International Airport,"Krasnodar, RU",1,0.5,40.0
+1226,1040,Yemelyanovo Airport,"Krasnoyarsk, RU",1197,Krasnodar International Airport,"Krasnodar, RU",1,0.3,40.0
+2053,135,"Santiago, Comodoro Arturo Merino Benitez International Airport","Santiago, CL",1573,Hercílio Luz International Airport,"Florianópolis, BR",1,0.9,39.5
+2520,204,Tunis Carthage International Airport,"Tunis, TN",851,Conakry Airport,"Conakry, GN",1,0.7,39.5
+705,541,Gdańsk Lech Wałęsa Airport,"Gdańsk, PL",1406,Haugesund Airport,"Karmøy, NO",1,0.1,39.5
+1716,703,Macau International Airport,"Taipa, MO",1150,Sunan Shuofang International Airport,"Wuxi, CN",1,0.9,39.0
+33,791,Paris Beauvais Tillé Airport,"Beauvais/Tillé, FR",1226,Sibiu International Airport,"Sibiu, RO",1,0.7,39.0
+3127,121,Bengaluru International Airport,"Bengaluru, IN",796,Djerba Zarzis International Airport,"Djerba, TN",0,0.2,39.0
+838,782,Shanghai Hongqiao International Airport,"Shanghai, CN",1479,Qianjiang Wulingshan Airport,"Qianjiang, CN",1,0.9,38.5
+1086,861,Koltsovo Airport,"Yekaterinburg, RU",2700,Magnitogorsk International Airport,"Magnitogorsk, RU",1,0.9,38.5
+2509,352,Tashkent International Airport,"Tashkent, UZ",1206,Sri Guru Ram Dass Jee International Airport,"Amritsar, IN",1,0.9,38.5
+2891,275,Sevilla Airport,"Sevilla, ES",2623,Juancho E. Yrausquin Airport,"Saba, BQ",0,0.1,38.5
+3540,142,Sofia Airport,"Sofia, BG",2619,L'Espérance Airport,"Grand Case, MF",0,0.1,38.5
+1369,566,Tbilisi International Airport,"Tbilisi, GE",858,Rennes-Saint-Jacques Airport,"Rennes/Saint-Jacques, FR",1,0.0,38.5
+140,131,"Rio de Janeiro ,Galeao Antonio Carlos Jobim International Airport","Rio de Janeiro, BR",586,Afonso Pena Airport,"Curitiba, BR",1,0.9,38.0
+4410,41,"Cleveland, Hopkins International Airport","Cleveland, US",473,Berlin-Schönefeld International Airport *Closed*,"Berlin, DE",0,0.2,37.5
+3169,179,Luxembourg-Findel International Airport,"Luxembourg, LU",889,Mammoth Yosemite Airport,"Mammoth Lakes, US",0,0.1,37.5
+3719,517,Dalaman International Airport,"Dalaman, TR",690,Naha Airport,"Naha, JP",0,0.1,37.5
+1898,335,Almaty Airport,"Almaty, KZ",3264,Ramenskoye Airport,"Zhukovsky, RU",1,0.7,37.0
+3208,147,Pittsburgh International Airport,"Pittsburgh, US",236,"Bonaire, Flamingo International Airport","Kralendijk, BQ",0,0.1,37.0
+2559,179,Luxembourg-Findel International Airport,"Luxembourg, LU",1678,Lorient South Brittany (Bretagne Sud) Airport,"Lorient/Lann/Bihoué, FR",0,1.0,36.5
+951,2807,Ürümqi Diwopu International Airport,"Ürümqi, CN",2895,Kashgar Airport,"Kashgar, CN",1,0.8,36.5
+1457,207,"Kathmandu, Tribhuvan International Airport","Kathmandu, NP",349,Dhaka / Hazrat Shahjalal International Airport,"Dhaka, BD",1,0.8,36.5
+4008,668,Tianjin Binhai International Airport,"Tianjin, CN",2909,Weipa Airport,"Weipa, AU",0,0.2,36.5
+651,384,Fresno Yosemite International Airport,"Fresno, US",389,Don Miguel Hidalgo Y Costilla International Airport,"Guadalajara, MX",1,0.9,36.0
+2259,63,Auckland International Airport,"Auckland, NZ",197,Sunshine Coast Airport,"Maroochydore, AU",1,0.9,36.0
+770,928,Sanya Phoenix International Airport,"Sanya, CN",1150,Sunan Shuofang International Airport,"Wuxi, CN",1,0.8,36.0
+1657,541,Gdańsk Lech Wałęsa Airport,"Gdańsk, PL",2671,Ivano-Frankivsk International Airport,"Ivano-Frankivsk, UA",1,0.9,35.5
+2173,517,Dalaman International Airport,"Dalaman, TR",534,Cardiff International Airport,"Cardiff, UK",1,0.9,35.5
+1938,860,Zvartnots International Airport,"Yerevan, AM",2715,Roshchino International Airport,"Tyumen, RU",1,0.5,35.5
+2117,494,Paphos International Airport,"Paphos, CY",1266,Bournemouth Airport,"Bournemouth, UK",1,0.4,35.5
+1181,471,Priština International Airport,"Prishtina, KS",524,Dortmund Airport,"Dortmund, DE",1,0.2,35.5
+3098,134,"Lima, Jorge Chavez International Airport","Lima, PE",1141,Charlottetown Airport,"Charlottetown, CA",0,0.1,35.5
+1669,204,Tunis Carthage International Airport,"Tunis, TN",1740,Gamal Abdel Nasser Airport,"Tobruk, LY",1,0.9,35.0
+1425,676,Liuting Airport,"Qingdao, CN",2175,Jixi Xingkaihu Airport,"Jixi, CN",1,0.8,35.0
+831,280,Reno Taoe International Airport,"Reno, US",281,"Columbus, Port Columbus International Airport","Columbus, US",1,0.7,35.0
+3138,287,Bergen Airport Flesland,"Bergen, NO",3234,Thule Air Base,"Pituffik, GL",0,0.1,35.0
+3166,484,Fuerteventura Airport,"Fuerteventura Island, ES",3040,Fort Albany Airport,"Fort Albany, CA",0,0.1,34.5
+2039,2976,Xingyi Airport,"Xingyi, CN",3445,Beijing Daxing International Airport,"Beijing, CN",1,0.9,34.0
+2201,165,"Ho Chi Minh City, Tan Son Nhat International Airport","Ho Chi Minh City, VN",3424,Van Don International Airport,"VanDon, VN",1,0.9,34.0
+3973,33,San Antonio,"San Antonio, US",895,General Guadalupe Victoria International Airport,"Durango, MX",0,1.0,33.5
+1689,513,Falcone–Borsellino Airport,"Palermo, IT",1384,Pantelleria Airport,"Pantelleria, IT",1,0.9,33.5
+2121,705,Kota Kinabalu International Airport,"Kota Kinabalu, MY",1034,Daegu Airport,"Daegu, KR",1,0.7,33.5
+1110,224,"Lagos,Murtala Muhammed International Airport","Lagos, NG",802,Hosea Kutako International Airport,"Windhoek, nan",1,0.6,33.5
+4070,1274,St Petersburg Clearwater International Airport,"St Petersburg-Clearwater, US",1384,Pantelleria Airport,"Pantelleria, IT",0,0.1,33.5
+75,745,Taipei Songshan Airport,"Taipei City, TW",881,Taiyuan Wusu Airport,"Taiyuan, CN",1,0.9,33.0
+425,703,Macau International Airport,"Taipa, MO",765,Okayama Airport,"Okayama City, JP",1,0.9,33.0
+2841,34,New Orleans L. Armstrong,"New Orleans, US",891,Ernest A. Love Field,"Prescott, US",0,0.9,33.0
+4223,334,Nnamdi Azikiwe International Airport,"Abuja, NG",789,Pula Airport,"Pula, HR",0,0.3,33.0
+759,336,Beirut Rafic Hariri International Airport,"Beirut, LB",1920,Mallam Aminu International Airport,"Kano, NG",1,0.4,32.5
+4127,352,Tashkent International Airport,"Tashkent, UZ",1549,Quetzalcóatl International Airport,"Nuevo Laredo, MX",0,0.4,32.5
+3196,535,London Southend Airport,"Southend, UK",1315,Gazipaşa Airport,"Gazipaşa, TR",0,0.3,32.5
+1350,312,Jose Marti International Airport,"Havana, CU",577,Augusto C. Sandino (Managua) International Airport,"Managua, NI",1,0.9,32.0
+3639,183,Cincinnati Northern Kentucky International Airport,"Cincinnati, US",3193,Orange Walk Airport,"Orange Walk, BZ",0,0.7,32.0
+53,807,Esenboğa International Airport,"Ankara, TR",2160,Ağrı Airport,"Agri, TR",1,0.4,32.0
+2956,185,Kansas City International Airport,"Kansas City, US",2488,Carajás Airport,"Carajás, BR",0,0.3,32.0
+2883,511,Bari Karol Wojtyła Airport,"Bari, IT",3372,Foula Airport,"Foula, UK",0,0.1,32.0
+175,516,Adnan Menderes International Airport,"İzmir, TR",3312,Ordu Giresun Airport,"Ordu/Giresun, TR",1,0.9,31.5
+776,1232,Lille-Lesquin Airport,"Lille/Lesquin, FR",1239,Figari Sud-Corse Airport,"Figari Sud-Corse, FR",1,0.9,31.5
+2346,454,Kos Airport,"Kos Island, GR",1736,Maastricht Aachen Airport,"Maastricht, NL",1,0.7,31.5
+3029,348,Tripoli International Airport,"Tripoli, LY",709,Siem Reap International Airport,"Siem Reap, KH",0,0.2,31.5
+2723,285,Phuket International Airport,"Phuket, TH",777,Hachijojima Airport,"Hachijojima, JP",0,0.4,31.0
+335,319,Split Airport,"Split, HR",1425,Osijek Airport,"Osijek, HR",1,0.8,30.5
+346,118,"Hyderabad, Rajiv Gandhi International Airport","Hyderabad, IN",1330,Lokpriya Gopinath Bordoloi International Airport,"Guwahati, IN",1,0.8,30.5
+1423,1205,Al Maktoum International Airport,"Jebel Ali, AE",1391,Chelyabinsk Balandino Airport,"Chelyabinsk, RU",1,0.7,30.5
+2638,133,"Buenos Aires, Ministro Pistarini International Airport","Buenos Aires, AR",1606,Cerro Moreno Airport,"Antofagasta, CL",0,1.0,30.0
+2500,131,"Rio de Janeiro ,Galeao Antonio Carlos Jobim International Airport","Rio de Janeiro, BR",1584,Zumbi dos Palmares Airport,"Maceió, BR",1,0.7,30.0
+598,589,Deputado Luiz Eduardo Magalhães International Airport,"Salvador, BR",1559,Ingeniero Ambrosio Taravella Airport,"Cordoba, AR",1,0.3,30.0
+2626,186,Dallas Love Field,"Dallas, US",3322,Sierra Maestra Airport,"Manzanillo, CU",0,0.1,30.0
+1844,801,Poznań-Ławica Airport,"Poznań, PL",1196,Kharkiv International Airport,"Kharkiv, UA",1,0.7,29.5
+3652,184,Indianapolis International Airport,"Indianapolis, US",2323,Central Airport,"Central, US",0,0.2,29.5
+3997,186,Dallas Love Field,"Dallas, US",2176,Bocas Del Toro International Airport,"Isla Colón, PA",0,0.2,29.5
+1637,509,Chania International Airport,"Souda, GR",1300,Kemi-Tornio Airport,"Kemi / Tornio, FI",1,0.1,29.5
+2278,240,"Providence, Theodore Francis Green State Airport","Providence, US",599,Martinique Aimé Césaire International Airport,"Fort-de-France, MQ",1,0.6,29.0
+3668,1232,Lille-Lesquin Airport,"Lille/Lesquin, FR",2631,Shymkent Airport,"Shymkent, KZ",0,0.6,29.0
+4310,509,Chania International Airport,"Souda, GR",2842,Thandwe Airport,"Thandwe, MM",0,0.2,29.0
+3488,353,Imam Khomeini International Airport,"Tehran, IR",1366,Tiree Airport,"Balemartine, UK",0,0.1,29.0
+4287,1264,Frankfurt-Hahn Airport,"Hahn, DE",3234,Thule Air Base,"Pituffik, GL",0,0.1,29.0
+2989,1390,Kiev Zhuliany International Airport,"Kiev, UA",1928,Lappeenranta Airport,"Lappeenranta, FI",0,1.0,28.5
+1282,335,Almaty Airport,"Almaty, KZ",2627,Kokshetau Airport,"Kokshetau, KZ",1,0.9,28.5
+414,28,"Orange County/Santa Ana, John Wayne","Santa Ana, US",307,Long Island Mac Arthur Airport,"Islip, US",1,0.5,28.5
+2852,284,Stavanger Airport,"Stavanger, NO",559,Frank Pais International Airport,"Holguin, CU",0,0.5,28.5
+3725,243,"San Jose, Juan Santamaria International Airport","San Jose, CR",1103,King Salmon Airport,"King Salmon, US",0,0.2,28.5
+2751,426,Sheppard Air Force Base-Wichita Falls Municipal Airport,"Wichita Falls, US",469,Bremen Airport,"Bremen, DE",0,0.1,28.5
+3770,367,General Mariano Escobedo International Airport,"Monterrey, MX",1165,Abha Regional Airport,"Abha, SA",0,0.1,28.5
+3917,172,Turin Airport,"Turin, IT",3487,Williston Basin International Airport,"Williston, US",0,0.1,28.5
+549,1197,Krasnodar International Airport,"Krasnodar, RU",2710,Novy Urengoy Airport,"Novy Urengoy, RU",1,0.0,28.5
+4154,1356,Niederrhein Airport,"Weeze, DE",1760,Sitia Airport,"Crete Island, GR",0,1.0,28.0
+2521,233,"Curacao, Hato International Airport","Curacao, CW",563,Mariscal Sucre International Airport,"Quito, EC",1,0.9,28.0
+1762,1356,Niederrhein Airport,"Weeze, DE",1671,Mogador Airport,"Essaouira, MA",1,0.9,27.5
+1873,458,Chubu Centrair International Airport,"Tokoname, JP",751,Memanbetsu Airport,"Ōzora, JP",1,0.9,27.5
+416,524,Dortmund Airport,"Dortmund, DE",2119,Debrecen International Airport,"Debrecen, HU",1,0.8,27.5
+3108,860,Zvartnots International Airport,"Yerevan, AM",1509,Mangshi Airport,"Luxi, CN",0,0.6,27.5
+1981,166,Winnipeg / James Armstrong Richardson International Airport,"Winnipeg, CA",1438,John C. Munro Hamilton International Airport,"Hamilton, CA",1,0.9,27.0
+1615,811,Dushanbe Airport,"Dushanbe, TJ",3264,Ramenskoye Airport,"Zhukovsky, RU",1,0.8,27.0
+1023,2,Anchorage Ted Stevens,"Anchorage, US",884,Bellingham International Airport,"Bellingham, US",1,0.7,27.0
+1867,1168,Prince Mohammad Bin Abdulaziz Airport,"Medina, SA",1169,Tabuk Airport,"Tabuk, SA",1,0.9,26.5
+2342,1295,Charlotte County Airport,"Punta Gorda, US",3273,Concord Regional Airport,"Concord, US",1,0.7,26.5
+3042,257,Jersey Airport,"Saint Helier, JE",2839,Mandalay International Airport,"Mandalay, MM",0,0.1,26.5
+3126,354,Sir Seewoosagur Ramgoolam International Airport,"Port Louis, MU",696,Krabi Airport,"Krabi, TH",0,0.1,26.5
+10,584,Presidente Juscelino Kubistschek International Airport,"Brasília, BR",1578,Presidente Castro Pinto International Airport,"João Pessoa, BR",1,0.9,26.0
+276,302,Tallinn Airport,"Tallinn, EE",2133,Mihail Kogălniceanu International Airport,"Constanţa, RO",1,0.9,26.0
+994,296,Richmond International Airport,"Richmond, US",445,Sarasota Bradenton International Airport,"Sarasota/Bradenton, US",1,0.9,26.0
+2481,804,Araxos Airport,"Patras, GR",1232,Lille-Lesquin Airport,"Lille/Lesquin, FR",1,0.9,25.5
+4023,224,"Lagos,Murtala Muhammed International Airport","Lagos, NG",2015,Tshikapa Airport,"Tshikapa, CD",0,0.9,25.5
+1169,118,"Hyderabad, Rajiv Gandhi International Airport","Hyderabad, IN",1319,Vadodara Airport,"Vadodara, IN",1,0.8,25.5
+2482,464,Dresden Airport,"Dresden, DE",835,Monastir Habib Bourguiba International Airport,"Monastir, TN",1,0.5,25.5
+3689,492,Sharm El Sheikh International Airport,"Sharm el-Sheikh, EG",1194,Mukalla International Airport,"Riyan, YE",0,0.3,25.5
+927,207,"Kathmandu, Tribhuvan International Airport","Kathmandu, NP",3336,Ras Al Khaimah International Airport,"Ras Al Khaimah, AE",1,0.8,25.0
+960,1507,Yulin Airport,"Yulin, CN",1533,Beijing Nanyuan Airport,"Beijing, CN",1,0.7,25.0
+3124,244,Sacramento International Airport,"Sacramento, US",1120,Bahías de Huatulco International Airport,"Huatulco, MX",0,0.4,25.0
+3777,118,"Hyderabad, Rajiv Gandhi International Airport","Hyderabad, IN",3275,Nalchik Airport,"Nalchik, RU",0,0.1,25.0
+1177,2689,Norilsk-Alykel Airport,"Norilsk, RU",2697,Sochi International Airport,"Sochi, RU",1,0.0,25.0
+1264,348,Tripoli International Airport,"Tripoli, LY",818,Borg El Arab International Airport,"Alexandria, EG",1,0.9,24.5
+1759,1200,Volgograd International Airport,"Volgograd, RU",2737,Kazan International Airport,"Kazan, RU",1,0.8,24.5
+3212,281,"Columbus, Port Columbus International Airport","Columbus, US",2316,Hodeidah International Airport,"Hodeida, YE",0,0.7,24.5
+1937,477,Ireland West Knock Airport,"Charleston, IE",483,Kaunas International Airport,"Kaunas, LT",1,0.4,24.5
+832,258,"Zakynthos, Dionysios Solomos Airport","Zakynthos, GR",539,Exeter International Airport,"Exeter, UK",1,0.3,24.5
+2809,118,"Hyderabad, Rajiv Gandhi International Airport","Hyderabad, IN",2766,Savannakhet Airport,"Savannakhet, LA",0,0.1,24.5
+3669,237,"Aruba, Queen Beatrix International Airport","Oranjestad, AW",831,Cadjehoun Airport,"Cotonou, BJ",0,0.1,24.5
+2670,116,Menorca Airport,"Menorca, ES",2675,Majeed Bin Abdulaziz Airport,"Al Ula, SA",0,0.4,24.0
+3623,514,Olbia Costa Smeralda Airport,"Olbia, IT",3151,Chevery Airport,"Chevery, CA",0,0.1,24.0
+738,78,Ottawa Macdonald-Cartier International Airport,"Ottawa, CA",1293,Iqaluit Airport,"Iqaluit, CA",1,0.6,23.5
+3161,169,Genoa Cristoforo Colombo Airport,"Genoa, IT",611,Appleton International Airport,"Appleton, US",0,0.2,23.5
+3060,182,Memphis International Airport,"Memphis, US",1143,Ignacio Agramonte International Airport,"Camaguey, CU",0,0.1,23.5
+1588,62,Perth International Airport,"Perth, AU",3450,Fortescue - Dave Forrest Aerodrome,"Cloudbreak Village, AU",1,0.9,23.0
+98,148,Portland International Jetport Airport,"Portland, US",445,Sarasota Bradenton International Airport,"Sarasota/Bradenton, US",1,0.6,23.0
+625,91,Shannon Airport,"Shannon, IE",309,Stewart International Airport,"Newburgh, US",1,0.3,23.0
+2849,675,Ningbo Lishe International Airport,"Ningbo, CN",3359,Hongyuan Aba  Airport,"Hongyuan, CN",0,0.2,23.0
+3180,78,Ottawa Macdonald-Cartier International Airport,"Ottawa, CA",876,Roberts Field,"Redmond, US",0,0.2,23.0
+105,1558,Jorge Newbery Airpark,"Buenos Aires, AR",2461,Capitan V A Almonacid Airport,"La Rioja, AR",1,0.7,22.5
+2609,500,Bastia-Poretta Airport,"Bastia/Poretta, FR",2059,El Fasher Airport,"El Fasher, SD",0,0.2,22.5
+4327,280,Reno Taoe International Airport,"Reno, US",799,Friedrichshafen Airport,"Friedrichshafen, DE",0,0.2,22.5
+1805,1173,Bushehr Airport,"Bushehr, IR",1178,Mashhad International Airport,"Mashhad, IR",1,0.8,22.0
+3722,182,Memphis International Airport,"Memphis, US",1097,Dillingham Airport,"Dillingham, US",0,0.4,22.0
+2017,505,Kefallinia Airport,"Kefallinia Island, GR",1266,Bournemouth Airport,"Bournemouth, UK",1,0.1,22.0
+3313,561,King Fahd International Airport,"Ad Dammam, SA",1415,Sogndal Airport,"Sogndal, NO",0,0.1,22.0
+4429,693,Yangon International Airport,"Yangon, MM",1454,Borlange Airport,"Borlange, SE",0,0.1,22.0
+2103,1486,Baita International Airport,"Hohhot, CN",3150,Yiershi Airport,"Aershan, CN",1,0.0,22.0
+581,2,Anchorage Ted Stevens,"Anchorage, US",1108,St George Airport,"St George, US",1,0.6,21.5
+2016,430,Eglin Air Force Base,"Valparaiso, US",2073,Scott AFB/Midamerica Airport,"Belleville, US",1,0.1,21.5
+2872,1519,Hefei Luogang International Airport,"Hefei, CN",3327,Huizhou Airport,"Huizhou, CN",0,0.1,21.5
+495,125,Cape Town International Airport,"Cape Town, ZA",1707,Maun Airport,"Maun, BW",1,0.9,21.0
+850,515,João Paulo II Airport,"Ponta Delgada, PT",852,Praia International Airport,"Praia, CV",1,0.9,21.0
+1851,699,Da Nang International Airport,"Da Nang, VN",2820,Cat Bi International Airport,"Haiphong, VN",1,0.9,21.0
+2918,453,Salzburg Airport,"Salzburg, AT",1298,Joensuu Airport,"Joensuu / Liperi, FI",0,0.3,21.0
+2592,554,Lamezia Terme Airport,"Lamezia Terme, IT",2778,Agatti Airport,"Agatti Island, IN",0,0.2,21.0
+3355,160,Cairns International Airport,"Cairns, AU",816,Berbera Airport,"Berbera, SO",0,0.1,21.0
+995,900,Playa De Oro International Airport,"Manzanillo, MX",1456,General Abelardo L. Rodríguez International Airport,"Tijuana, MX",1,0.9,20.0
+1586,124,Tenerife Norte Airport,"Tenerife, ES",1426,Zaragoza Air Base,"Zaragoza, ES",1,0.9,20.0
+2417,242,Harrisburg International Airport,"Harrisburg, US",445,Sarasota Bradenton International Airport,"Sarasota/Bradenton, US",1,0.7,20.0
+497,1583,Regional de Maringá - Sílvio Nane Junior Airport,"Maringá, BR",1586,Salgado Filho Airport,"Porto Alegre, BR",1,0.5,20.0
+1373,813,Kurumoch International Airport,"Samara, RU",2730,Belgorod International Airport,"Belgorod, RU",1,0.5,20.0
+3528,813,Kurumoch International Airport,"Samara, RU",1226,Sibiu International Airport,"Sibiu, RO",0,0.5,20.0
+2069,195,"Puerto Vallarta, Licenciado Gustavo Diaz Ordaz International Airport","Puerto Vallarta, MX",1449,Abbotsford Airport,"Abbotsford, CA",1,0.3,20.0
+3128,2284,Mehrabad International Airport,"Tehran, IR",3054,Akureyri Airport,"Akureyri, IS",0,0.2,20.0
+4210,455,"Trondheim Airport, Værnes","Trondheim, NO",1489,Wuhai Airport,"Wuhai, CN",0,0.1,20.0
+1682,125,Cape Town International Airport,"Cape Town, ZA",1688,Bram Fischer International Airport,"Bloemfontain, ZA",1,0.9,19.5
+198,1503,Yinchuan Airport,"Yinchuan, CN",3300,Turpan Jiaohe Airport,"Turpan, CN",1,0.4,19.5
+4403,517,Dalaman International Airport,"Dalaman, TR",3482,Ust-Maya Airport,"Ust-Maya, RU",0,0.2,19.5
+3309,801,Poznań-Ławica Airport,"Poznań, PL",1452,Bathurst Airport,"Bathurst, CA",0,0.1,19.5
+4105,573,Las Américas International Airport,"Santo Domingo, DO",2013,Kindu Airport,"Kindu, CD",0,0.1,19.5
+3655,193,Eppley Airfield,"Omaha, US",1866,Fort Chipewyan Airport,"Fort Chipewyan, CA",0,0.2,19.0
+3213,555,Ljubljana Jože Pučnik Airport,"Ljubljana, SI",1506,Yan'an Airport,"Yan'an, CN",0,0.1,19.0
+2372,1497,Zhuhai Airport,"Zhuhai, CN",1517,Huangyan Luqiao Airport,"Huangyan, CN",1,0.9,18.5
+733,127,"Durban, King Shaka International Airport","Durban, ZA",355,Seychelles International Airport,"Mahe Island, SC",1,0.8,18.5
+4288,1230,Lviv International Airport,"Lviv, UA",2778,Agatti Airport,"Agatti Island, IN",0,0.1,18.5
+4167,1213,Santander Airport,"Santander, ES",1282,Comiso Airport,"Comiso, IT",0,0.8,18.0
+430,831,Cadjehoun Airport,"Cotonou, BJ",844,Libreville Leon M'ba International Airport,"Libreville, GA",1,0.7,18.0
+1435,460,Bern Belp Airport,"Bern, CH",857,Calvi-Sainte-Catherine Airport,"Calvi/Sainte-Catherine, FR",1,0.7,18.0
+2071,124,Tenerife Norte Airport,"Tenerife, ES",854,Vigo Airport,"Vigo, ES",1,0.6,18.0
+2616,263,City of Colorado Springs Municipal Airport,"Colorado Springs, US",825,Kabul International Airport,"Kabul, AF",0,0.1,18.0
+3501,2653,Batumi International Airport,"Batumi, GE",2822,Cam Ranh Airport,"Nha Trang, VN",0,0.1,18.0
+4156,502,Montpellier-Méditerranée Airport,"Montpellier/Méditerranée, FR",622,Greenbrier Valley Airport,"Lewisburg, US",0,0.1,18.0
+2748,467,Brest Bretagne Airport,"Brest/Guipavas, FR",2119,Debrecen International Airport,"Debrecen, HU",0,0.4,17.5
+398,792,Vincenzo Florio Airport Trapani-Birgi,"Trapani, IT",1430,Parma Airport,"Parma, IT",1,0.2,17.5
+808,323,Kotoka International Airport,"Accra, GH",1909,Takoradi Airport,"Sekondi-Takoradi, GH",1,0.1,17.5
+3815,534,Cardiff International Airport,"Cardiff, UK",2012,Bangoka International Airport,"Kisangani, CD",0,0.1,17.5
+2563,821,Khartoum International Airport,"Khartoum, SD",1138,Saint John Airport,"Saint John, CA",0,0.2,17.0
+2906,1586,Salgado Filho Airport,"Porto Alegre, BR",2015,Tshikapa Airport,"Tshikapa, CD",0,0.1,17.0
+3920,521,Enfidha - Hammamet International Airport,"Enfidha, TN",1335,Kullu Manali Airport,"Bhuntar, IN",0,0.1,17.0
+2175,294,"Fiji, Nadi International Airport","Nadi, FJ",972,Fua'amotu International Airport,"Nuku'alofa, TO",1,0.0,17.0
+73,237,"Aruba, Queen Beatrix International Airport","Oranjestad, AW",2171,La Isabela International Airport,"La Isabela, DO",1,0.1,16.5
+2754,218,"Bridgetown, Sir Grantley Adams International Airport","Bridgetown, BB",1137,Sudbury Airport,"Sudbury, CA",0,0.1,16.5
+2015,1214,Tarbes-Lourdes-Pyrénées Airport,"Tarbes/Lourdes/Pyrénées, FR",1239,Figari Sud-Corse Airport,"Figari Sud-Corse, FR",1,0.9,16.0
+2927,237,"Aruba, Queen Beatrix International Airport","Oranjestad, AW",1247,Dawson Creek Airport,"Dawson Creek, CA",0,0.1,16.0
+2985,341,Santorini Airport,"Santorini Island, GR",1144,Abel Santamaria Airport,"Santa Clara, CU",0,0.4,15.5
+144,2685,Omsk Central Airport,"Omsk, RU",2691,Anapa Airport,"Anapa, RU",1,0.3,15.5
+2378,1092,Bethel Airport,"Bethel, US",2329,Eek Airport,"Eek, US",1,0.2,15.5
+3085,727,Trivandrum International Airport,"Trivandrum, IN",1328,Biju Patnaik Airport,"Bhubaneswar, IN",0,0.7,15.0
+3456,43,Tucson International Airport,"Tucson, US",1285,Gustaf III Airport,"Gustavia, BL",0,0.6,15.0
+2984,1177,Bandar Abbas International Airport,"Bandar Abbas, IR",1200,Volgograd International Airport,"Volgograd, RU",0,0.1,15.0
+3461,387,Fort Wayne International Airport,"Fort Wayne, US",844,Libreville Leon M'ba International Airport,"Libreville, GA",0,0.1,15.0
+4050,309,Stewart International Airport,"Newburgh, US",433,Innsbruck Airport,"Innsbruck, AT",0,0.1,15.0
+4133,266,Quebec Jean Lesage International Airport,"Quebec City, CA",542,Växjö Kronoberg Airport,"Växjö, SE",0,0.1,15.0
+4317,580,Owen Roberts International Airport,"Georgetown, KY",2238,Hao Airport,"Hao, PF",0,0.1,15.0
+1639,1059,Billy Bishop Toronto City Centre Airport,"Toronto, CA",1135,Thunder Bay Airport,"Thunder Bay, CA",1,0.9,14.5
+3923,619,Coastal Carolina Regional Airport,"New Bern, US",796,Djerba Zarzis International Airport,"Djerba, TN",0,0.2,14.5
+3478,1415,Sogndal Airport,"Sogndal, NO",1520,Quanzhou Airport,"Quanzhou, CN",0,0.1,14.5
+4298,1678,Lorient South Brittany (Bretagne Sud) Airport,"Lorient/Lann/Bihoué, FR",2652,Kopitnari Airport,"Kutaisi, GE",0,0.1,14.5
+3344,438,Syracuse Hancock International Airport,"Syracuse, US",622,Greenbrier Valley Airport,"Lewisburg, US",0,1.0,14.0
+2798,233,"Curacao, Hato International Airport","Curacao, CW",2566,Eduardo Falla Solano Airport,"San Vicente Del Caguán, CO",0,0.8,14.0
+237,1035,Yakutsk Airport,"Yakutsk, RU",2656,Sokol Airport,"Magadan, RU",1,0.4,14.0
+4005,588,Guararapes - Gilberto Freyre International Airport,"Recife, BR",1624,Capitan FAP Pedro Canga Rodriguez Airport,"Tumbes, PE",0,0.3,14.0
+4144,263,City of Colorado Springs Municipal Airport,"Colorado Springs, US",270,Shreveport Regional Airport,"Shreveport, US",0,1.0,13.5
+895,843,Ivato Airport,"Antananarivo, MG",1984,Antsirabato Airport,"Antalaha, MG",1,0.9,13.5
+623,158,Gold Coast Airport,"Gold Coast, AU",1466,Mount Isa Airport,"Mount Isa, AU",1,0.8,13.5
+3077,1367,Gothenburg City Airport,"Gothenburg, SE",1760,Sitia Airport,"Crete Island, GR",0,0.2,13.5
+2621,467,Brest Bretagne Airport,"Brest/Guipavas, FR",766,Izumo Airport,"Izumo, JP",0,0.1,13.5
+3670,562,Erbil International Airport,"Arbil, IQ",2835,Dawei Airport,"Dawei, MM",0,0.1,13.5
+4184,515,João Paulo II Airport,"Ponta Delgada, PT",2079,Grand Canyon National Park Airport,"Grand Canyon, US",0,0.1,13.5
+1151,137,"Kingston, Norman Manley International Airport","Kingston, JM",598,Cheddi Jagan International Airport,"Georgetown, GY",1,0.8,13.0
+3037,421,Savannah Hilton Head International Airport,"Savannah, US",2588,Barinas Airport,"Barinas, VE",0,0.8,13.0
+671,104,Osaka International Airport,"Osaka, JP",762,Amami Airport,"Amami, JP",1,0.7,13.0
+3941,704,Sultan Aji Muhamad Sulaiman Airport,"Kotamadya Balikpapan, ID",1458,Santo Pekoa International Airport,"Luganville, VU",0,0.6,13.0
+1133,1493,Beihai Airport,"Beihai, CN",1500,Luoyang Airport,"Luoyang, CN",1,0.2,13.0
+2788,725,Cochin International Airport,"Cochin, IN",1147,LTS Pulau Redang Airport,"Redang, MY",0,0.2,13.0
+3745,1127,Flagstaff Pulliam Airport,"Flagstaff, US",1386,Trieste–Friuli Venezia Giulia Airport,"Trieste, IT",0,0.1,13.0
+4151,435,Akron Canton Regional Airport,"Akron, US",1903,Ain el Beida Airport,"Ouargla, DZ",0,0.1,13.0
+1143,1172,Ahwaz Airport,"Ahwaz, IR",1177,Bandar Abbas International Airport,"Bandar Abbas, IR",1,0.0,13.0
+2274,708,Iloilo International Airport,"Iloilo City, PH",728,Francisco Bangoy International Airport,"Davao City, PH",1,0.8,12.5
+1326,81,Christchurch International Airport,"Christchurch, NZ",1459,Hokitika Airfield,"Hokitika, NZ",1,0.7,12.5
+1693,723,Aden International Airport,"Aden, YE",1194,Mukalla International Airport,"Riyan, YE",1,0.6,12.5
+2747,983,Townsville Airport,"Townsville, AU",3317,Melbourne Essendon Airport,"Melbourne, AU",0,0.3,12.5
+3215,506,Kalamata Airport,"Kalamata, GR",2693,Uytash Airport,"Makhachkala, RU",0,0.3,12.5
+3549,1429,Pescara International Airport,"Pescara, IT",1898,Touat Cheikh Sidi Mohamed Belkebir Airport,"Adrar, DZ",0,0.3,12.5
+3516,564,Johan Adolf Pengel International Airport,"Zandery, SR",845,N'Djamena International Airport,"N'Djamena, TD",0,0.2,12.5
+2564,508,Aktion National Airport,"Preveza/Lefkada, GR",2677,Murmansk Airport,"Murmansk, RU",0,0.1,12.5
+3423,719,Langkawi International Airport,"Langkawi, MY",1481,Chifeng Airport,"Chifeng, CN",0,0.1,12.5
+3778,761,Nagasaki Airport,"Nagasaki, JP",853,Asturias Airport,"Ranón, ES",0,0.1,12.5
+4022,265,Birmingham-Shuttlesworth International Airport,"Birmingham, US",1842,Flin Flon Airport,"Flin Flon, CA",0,0.1,12.5
+2642,32,Westchester County,"White Plains, US",447,Capital City Airport,"Lansing, US",0,1.0,12.0
+417,1059,Billy Bishop Toronto City Centre Airport,"Toronto, CA",1138,Saint John Airport,"Saint John, CA",1,0.9,12.0
+638,384,Fresno Yosemite International Airport,"Fresno, US",409,General Francisco J. Mujica International Airport,"Morelia, MX",1,0.5,12.0
+266,1163,Yellowknife Airport,"Yellowknife, CA",1884,Taloyoak Airport,"Taloyoak, CA",1,0.1,12.0
+2878,196,"Maui, Kahului Airport","Kahului, US",610,Southwest Georgia Regional Airport,"Albany, US",0,0.1,12.0
+2904,971,Nausori International Airport,"Nausori, FJ",1202,Shah Amanat International Airport,"Chittagong, BD",0,0.1,12.0
+3087,580,Owen Roberts International Airport,"Georgetown, KY",1243,Bella Coola Airport,"Bella Coola, CA",0,0.1,12.0
+3243,620,Bishop International Airport,"Flint, US",1730,Ostend-Bruges International Airport,"Ostend, BE",0,0.1,12.0
+4036,220,"St. Thomas, Cyril E. King Airport","Charlotte Amalie, VI",2371,Chevak Airport,"Chevak, US",0,0.1,12.0
+4192,220,"St. Thomas, Cyril E. King Airport","Charlotte Amalie, VI",1121,Ciudad del Carmen International Airport,"Ciudad del Carmen, MX",0,0.1,12.0
+2762,1431,Perugia San Francesco d'Assisi – Umbria International Airport,"Perugia, IT",2653,Batumi International Airport,"Batumi, GE",0,0.6,11.5
+4013,1369,Rostock-Laage Airport,"Rostock, DE",1406,Haugesund Airport,"Karmøy, NO",0,0.6,11.5
+772,2822,Cam Ranh Airport,"Nha Trang, VN",3032,Tho Xuan Airport,"Tho Xuan, VN",1,0.2,11.5
+3010,262,Guernsey Airport,"Saint Peter Port, GG",3167,Ust-Tsylma Airport,"Ust-Tsylma, RU",0,0.1,11.5
+3731,727,Trivandrum International Airport,"Trivandrum, IN",2791,Kaadedhdhoo Airport,"Huvadhu Atoll, MV",0,1.0,11.0
+2355,716,Miri Airport,"Miri, MY",2879,Mukah Airport,"Mukah, MY",1,0.9,11.0
+1341,576,Licenciado Manuel Crescencio Rejon Int Airport,"Mérida, MX",1125,Carlos Rovirosa Pérez International Airport,"Villahermosa, MX",1,0.1,11.0
+2597,856,Biarritz-Anglet-Bayonne Airport,"Biarritz/Anglet/Bayonne, FR",2963,Ngari Gunsa Airport,"Shiquanhe, CN",0,0.1,11.0
+2770,32,Westchester County,"White Plains, US",2514,Governador Jorge Teixeira de Oliveira Airport,"Porto Velho, BR",0,0.1,11.0
+2963,2084,Memorial Field,"Hot Springs, US",2718,Khudzhand Airport,"Khudzhand, TJ",0,0.1,11.0
+3020,129,Mombasa Moi International Airport,"Mombasa, KE",1530,Luzhou Airport,"Luzhou, CN",0,0.1,11.0
+2262,973,Port Vila Bauerfield Airport,"Port Vila, VU",2257,Dillon's Bay Airport,"Dillon's Bay, VU",1,0.9,10.5
+2303,542,Växjö Kronoberg Airport,"Växjö, SE",2130,Tuzla International Airport,"Tuzla, BA",1,0.8,10.5
+1314,680,Kagoshima Airport,"Kagoshima, JP",747,Kobe Airport,"Kobe, JP",1,0.6,10.5
+3708,1173,Bushehr Airport,"Bushehr, IR",2138,Adana Airport,"Adana, TR",0,0.1,10.5
+3735,827,Douala International Airport,"Douala, CM",2573,Capitán Aníbal Arab Airport,"Cobija, BO",0,0.1,10.5
+4308,711,Yuzhno-Sakhalinsk Airport,"Yuzhno-Sakhalinsk, RU",820,Juba International Airport,"Juba, SS",0,0.1,10.5
+3339,1106,Nome Airport,"Nome, US",2332,Edward G. Pitka Sr Airport,"Galena, US",0,1.0,10.0
+1838,1448,Wabush Airport,"Wabush, CA",1451,Sept-Îles Airport,"Sept-Îles, CA",1,0.9,10.0
+4048,1590,Santos Dumont Airport,"Rio De Janeiro, BR",3001,Guanambi Airport,"Guanambi, BR",0,0.9,10.0
+4209,305,Blue Grass Airport,"Lexington, US",2990,Pickle Lake Airport,"Pickle Lake, CA",0,0.5,10.0
+996,708,Iloilo International Airport,"Iloilo City, PH",2448,Puerto Princesa Airport,"Puerto Princesa City, PH",1,0.1,10.0
+2739,599,Martinique Aimé Césaire International Airport,"Fort-de-France, MQ",1853,Stephenville Airport,"Stephenville, CA",0,0.1,10.0
+3262,1063,Hagerstown Regional Richard A Henson Field,"Hagerstown, US",1188,Peshawar International Airport,"Peshawar, PK",0,0.1,10.0
+1152,814,Lusaka International Airport,"Lusaka, ZM",1973,Chipata Airport,"Chipata, ZM",1,0.9,9.5
+4139,1736,Maastricht Aachen Airport,"Maastricht, NL",1890,Mecheria Airport,"Mecheria, DZ",0,0.9,9.5
+2398,983,Townsville Airport,"Townsville, AU",3452,Tindal Airport,"Katherine, AU",1,0.6,9.5
+420,901,Rarotonga International Airport,"Avarua, CK",3010,Kauehi Airport,"Kauehi, PF",1,0.5,9.5
+2961,788,Rzeszów-Jasionka Airport,"Rzeszów, PL",3088,Bam Airport,"Bam, IR",0,0.4,9.5
+3677,1280,Perpignan-Rivesaltes (Llabanère) Airport,"Perpignan/Rivesaltes, FR",2692,Gelendzhik Airport,"Gelendzhik, RU",0,0.4,9.5
+3837,983,Townsville Airport,"Townsville, AU",2876,Long Lellang Airport,"Long Datih, MY",0,0.3,9.5
+1229,2663,Chita-Kadala Airport,"Chita, RU",3023,Manzhouli Xijiao Airport,"Manzhouli, CN",1,0.2,9.5
+2660,2539,Tres De Mayo Airport,"Puerto Asís, CO",2793,U-Tapao International Airport,"Rayong, TH",0,0.1,9.5
+2698,1280,Perpignan-Rivesaltes (Llabanère) Airport,"Perpignan/Rivesaltes, FR",1885,Churchill Airport,"Churchill, CA",0,0.1,9.5
+3637,27,Long Beach Airport,"Long Beach, US",1836,St. Anthony Airport,"St. Anthony, CA",0,0.1,9.5
+4318,32,Westchester County,"White Plains, US",944,Laramie Regional Airport,"Laramie, US",0,0.1,9.5
+551,1106,Nome Airport,"Nome, US",2363,Savoonga Airport,"Savoonga, US",1,0.9,9.0
+1077,795,Jardines Del Rey Airport,"Cayo Coco, CU",1134,Windsor Airport,"Windsor, CA",1,0.4,9.0
+3420,680,Kagoshima Airport,"Kagoshima, JP",1489,Wuhai Airport,"Wuhai, CN",0,0.1,9.0
+3443,2138,Adana Airport,"Adana, TR",3092,Solovki Airport,"Solovetsky Islands, RU",0,0.1,9.0
+3890,478,Aalborg Airport,"Aalborg, DK",2747,Koggala Airport,"Galle, LK",0,0.1,9.0
+4162,1203,Chaudhary Charan Singh International Airport,"Lucknow, IN",2842,Thandwe Airport,"Thandwe, MM",0,0.1,9.0
+1735,1172,Ahwaz Airport,"Ahwaz, IR",2290,Dasht-e Naz Airport,"Sari, IR",1,0.9,8.5
+2676,27,Long Beach Airport,"Long Beach, US",1242,Trail Airport,"Trail, CA",0,0.9,8.5
+3458,27,Long Beach Airport,"Long Beach, US",2087,Kirksville Regional Airport,"Kirksville, US",0,0.4,8.5
+2897,2643,Nakhchivan Airport,"Nakhchivan, AZ",3338,Grenoble Alpes-Isère Airport,"Grenoble, FR",0,0.2,8.5
+2991,1193,Sulaymaniyah International Airport,"Sulaymaniyah, IQ",1343,Sheikh ul Alam Airport,"Srinagar, IN",0,0.2,8.5
+3996,2714,Surgut Airport,"Surgut, RU",3081,Alashankou Bole (Bortala) airport,"Bole, CN",0,0.2,8.5
+3135,1398,Alta Airport,"Alta, NO",2139,Gaziantep International Airport,"Gaziantep, TR",0,0.1,8.5
+3183,986,Hervey Bay Airport,"Hervey Bay, AU",1280,Perpignan-Rivesaltes (Llabanère) Airport,"Perpignan/Rivesaltes, FR",0,0.1,8.5
+3362,358,Easterwood Field,"College Station, US",1372,Angads Airport,"Oujda, MA",0,0.1,8.5
+3939,123,St. John's International Airport,"St. John's, CA",2563,Jorge E. Gonzalez Torres Airport,"San José Del Guaviare, CO",0,0.1,8.5
+3971,1323,Dr. Babasaheb Ambedkar International Airport,"Naqpur, IN",1517,Huangyan Luqiao Airport,"Huangyan, CN",0,0.1,8.5
+4456,590,Silvio Pettirossi International Airport,"Asunción, PY",1768,Atmautluak Airport,"Atmautluak, US",0,0.1,8.5
+3274,592,Rafael Nuñez International Airport,"Cartagena, CO",2567,Gustavo Vargas Airport,"Tame, CO",0,1.0,8.0
+3330,209,"Freeport, Grand Bahama International Airport","Freeport, BS",1056,San Salvador Airport,"San Salvador, BS",0,1.0,8.0
+4122,760,Kumamoto Airport,"Kumamoto, JP",765,Okayama Airport,"Okayama City, JP",0,1.0,8.0
+1524,1560,El Plumerillo Airport,"Mendoza, AR",2463,Domingo Faustino Sarmiento Airport,"San Juan, AR",1,0.6,8.0
+3801,1250,Powell River Airport,"Powell River, CA",1280,Perpignan-Rivesaltes (Llabanère) Airport,"Perpignan/Rivesaltes, FR",0,0.5,8.0
+3377,608,Atlantic City International Airport,"Atlantic City, US",1364,Stornoway Airport,"Stornoway, UK",0,0.3,8.0
+3629,1488,Tongliao Airport,"Tongliao, CN",1517,Huangyan Luqiao Airport,"Huangyan, CN",0,0.3,8.0
+2549,1053,Plattsburgh International Airport,"Plattsburgh, US",1123,Xoxocotlán International Airport,"Oaxaca, MX",0,0.2,8.0
+4075,680,Kagoshima Airport,"Kagoshima, JP",2892,Radin Inten II (Branti) Airport,"Bandar Lampung-Sumatra Island, ID",0,0.2,8.0
+2819,635,Kerry Airport,"Killarney, IE",1221,Marsa Alam International Airport,"Marsa Alam, EG",0,0.1,8.0
+3460,548,Kilimanjaro International Airport,"Arusha, TZ",633,Tupelo Regional Airport,"Tupelo, US",0,0.1,8.0
+3634,707,Sultan Ismail Petra Airport,"Kota Baharu, MY",1207,Malabo Airport,"Malabo, GQ",0,0.1,8.0
+4271,768,Tottori Airport,"Tottori, JP",1330,Lokpriya Gopinath Bordoloi International Airport,"Guwahati, IN",0,0.1,8.0
+4348,314,Corpus Christi International Airport,"Corpus Christi, US",1182,Tabriz International Airport,"Tabriz, IR",0,0.1,8.0
+9,1135,Thunder Bay Airport,"Thunder Bay, CA",1834,Fort Frances Municipal Airport,"Fort Frances, CA",1,0.8,7.5
+1091,683,Miho Yonago Airport,"Yonago, JP",747,Kobe Airport,"Kobe, JP",1,0.8,7.5
+1122,721,Sultan Abdul Aziz Shah International Airport,"Kuala Lumpur Subang, MY",2904,Kerteh Airport,"Kerteh, MY",1,0.7,7.5
+2593,2711,Nizhnevartovsk Airport,"Nizhnevartovsk, RU",3212,Sde Dov Airport,"Tel Aviv, IL",0,0.6,7.5
+2757,651,Sioux Gateway Col. Bud Day Field,"Sioux City, US",884,Bellingham International Airport,"Bellingham, US",0,0.6,7.5
+2166,2680,Abakan Airport,"Abakan, RU",2689,Norilsk-Alykel Airport,"Norilsk, RU",1,0.4,7.5
+3426,849,Rabat-Salé Airport,"Rabat, MA",2268,Nejran Airport,"Nejran, SA",0,0.4,7.5
+3773,590,Silvio Pettirossi International Airport,"Asunción, PY",3120,Kitale Airport,"Kitale, KE",0,0.1,7.5
+3841,643,Marshall Islands International Airport,"Majuro Atoll, MH",656,Lal Bahadur Shastri Airport,"Varanasi, IN",0,0.1,7.5
+4219,971,Nausori International Airport,"Nausori, FJ",3059,Zhangjiakou Ningyuan Airport,"Zhangjiakou, CN",0,0.1,7.5
+3553,2721,Fergana International Airport,"Fergana, UZ",2895,Kashgar Airport,"Kashgar, CN",0,1.0,7.0
+3653,548,Kilimanjaro International Airport,"Arusha, TZ",3078,Bukavu Kavumu Airport,"Bukavu, CD",0,1.0,7.0
+612,1392,Bolshoye Savino Airport,"Perm, RU",2712,Kogalym International Airport,"Kogalym, RU",1,0.9,7.0
+1111,1565,San Carlos De Bariloche Airport,"San Carlos de Bariloche, AR",2462,Teniente Benjamin Matienzo Airport,"San Miguel de Tucuman, AR",1,0.9,7.0
+2696,277,Northwest Florida Beaches International Airport,"Panama City Beach, US",569,Rafael Hernandez Airport,"Aguadilla, PR",0,0.5,7.0
+3187,292,Billings Logan International Airport,"Billings, US",1115,Athens Ben Epps Airport,"Athens, US",0,0.5,7.0
+701,2719,Qurghonteppa International Airport,"Kurgan-Tyube, TJ",2741,Orenburg Central Airport,"Orenburg, RU",1,0.3,7.0
+2086,1107,Ralph Wien Memorial Airport,"Kotzebue, US",2366,Selawik Airport,"Selawik, US",1,0.3,7.0
+4424,1177,Bandar Abbas International Airport,"Bandar Abbas, IR",1696,Margate Airport,"Margate, ZA",0,0.3,7.0
+2759,1182,Tabriz International Airport,"Tabriz, IR",1259,Smithers Airport,"Smithers, CA",0,0.1,7.0
+2782,919,Jackson Hole Airport,"Jackson, US",1668,Biskra Airport,"Biskra, DZ",0,0.1,7.0
+2870,2727,Samarkand Airport,"Samarkand, UZ",2861,Iskandar Airport,"Pangkalanbun-Borneo Island, ID",0,0.1,7.0
+2912,572,Casa De Campo International Airport,"La Romana, DO",3010,Kauehi Airport,"Kauehi, PF",0,0.1,7.0
+3254,1310,Tampere-Pirkkala Airport,"Tampere / Pirkkala, FI",1728,Gabès Matmata International Airport,"Gabès, TN",0,0.1,7.0
+2760,2145,Çardak Airport,"Denizli, TR",2691,Anapa Airport,"Anapa, RU",0,1.0,6.5
+3470,264,Huntsville International Carl T Jones Field,"Huntsville, US",2991,Lansdowne House Airport,"Lansdowne House, CA",0,1.0,6.5
+2294,2704,Sovetskiy Airport,"Sovetskiy, RU",2709,Nadym Airport,"Nadym, RU",1,0.8,6.5
+1952,732,Bandara International Lombok Airport,"Mataram, ID",2847,Muhammad Salahuddin Airport,"Bima-Sumbawa Island, ID",1,0.7,6.5
+3701,608,Atlantic City International Airport,"Atlantic City, US",3249,Dryden Regional Airport,"Dryden, CA",0,0.5,6.5
+901,2674,Talagi Airport,"Archangelsk, RU",3200,Naryan Mar Airport,"Naryan Mar, RU",1,0.4,6.5
+338,836,Sfax Thyna International Airport,"Sfax, TN",1767,Misratah Airport,"Misratah, LY",1,0.3,6.5
+3515,2285,Kerman Airport,"Kerman, IR",2738,Begishevo Airport,"Nizhnekamsk, RU",0,0.3,6.5
+4163,1568,Pampulha - Carlos Drummond de Andrade Airport,"Belo Horizonte, BR",2191,Mariana Grajales Airport,"Guantánamo, CU",0,0.2,6.5
+2974,795,Jardines Del Rey Airport,"Cayo Coco, CU",1443,Grande Prairie Airport,"Grande Prairie, CA",0,0.1,6.5
+3280,267,Rapid City Regional Airport,"Rapid City, US",1879,Norman Wells Airport,"Norman Wells, CA",0,0.1,6.5
+3317,1575,Santa Genoveva Airport,"Goiânia, BR",3001,Guanambi Airport,"Guanambi, BR",0,0.1,6.5
+4117,526,Bangor International Airport,"Bangor, US",2272,Sharurah Airport,"Sharurah, SA",0,0.1,6.5
+337,2540,Palonegro Airport,"Bucaramanga, CO",2564,Simón Bolívar International Airport,"Santa Marta, CO",1,0.0,6.5
+4084,526,Bangor International Airport,"Bangor, US",1158,Bradford Regional Airport,"Bradford, US",0,1.0,6.0
+1475,2552,Enrique Olaya Herrera Airport,"Medellín, CO",2569,El Caraño Airport,"Quibdó, CO",1,0.9,6.0
+2741,2142,Sivas Airport,"Sivas, TR",2741,Orenburg Central Airport,"Orenburg, RU",0,0.8,6.0
+2710,1596,Senador Petrônio Portela Airport,"Teresina, BR",1710,Livingstone Airport,"Livingstone, ZM",0,0.6,6.0
+1942,2282,Sardar-e-Jangal Airport,"Rasht, IR",3189,Persian Gulf International Airport,"Asalouyeh, IR",1,0.4,6.0
+2620,1328,Biju Patnaik Airport,"Bhubaneswar, IN",2286,Birjand Airport,"Birjand, IR",0,0.2,6.0
+4055,2722,Namangan Airport,"Namangan, UZ",2841,Sittwe Airport,"Sittwe, MM",0,0.2,6.0
+3297,373,Columbia Metropolitan Airport,"Columbia, US",1908,Sunyani Airport,"Sunyani, GH",0,0.1,6.0
+3823,556,Konya Airport,"Konya, TR",1712,Beira Airport,"Beira, MZ",0,0.1,6.0
+4085,874,Tri Cities Airport,"Pasco, US",2694,Beslan Airport,"Beslan, RU",0,0.1,6.0
+1614,1446,Val-d'Or Airport,"Val-d'Or, CA",1855,Waskaganish Airport,"Waskaganish, CA",1,0.8,5.5
+3666,1701,Polokwane International Airport,"Potgietersrus, ZA",1978,Prince Said Ibrahim International Airport,"Moroni, KM",0,0.6,5.5
+3276,892,Santa Maria Pub/Capt G Allan Hancock Field,"Santa Maria, US",1871,Red Lake Airport,"Red Lake, CA",0,0.4,5.5
+3206,270,Shreveport Regional Airport,"Shreveport, US",1846,Igloolik Airport,"Igloolik, CA",0,0.3,5.5
+3063,490,Rabil Airport,"Rabil, CV",2520,Tabatinga Airport,"Tabatinga, BR",0,0.1,5.5
+3434,3062,Altay Air Base,"Altay, CN",3260,Medan/Kualanamu International Airport,"Medan, ID",0,0.1,5.5
+3808,1236,Banja Luka International Airport,"Banja Luka, BA",1384,Pantelleria Airport,"Pantelleria, IT",0,0.1,5.5
+4280,418,Querétaro Intercontinental Airport,"Querétaro, MX",3219,Kegaska Airport,"Kegaska, CA",0,0.1,5.5
+726,1715,Nampula Airport,"Nampula, MZ",2006,Lichinga Airport,"Lichinga, MZ",1,0.9,5.0
+743,2299,Bahawalpur Airport,"Bahawalpur, PK",2311,Sukkur Airport,"Mirpur Khas, PK",1,0.9,5.0
+1153,1113,Unalakleet Airport,"Unalakleet, US",2346,Koyuk Alfred Adams Airport,"Koyuk, US",1,0.9,5.0
+4017,1360,"Sumburgh Airport, Shetland Islands","Lerwick, UK",1936,St. Mary's Airport,"St. Mary's, UK",0,0.9,5.0
+2320,1600,Chacalluta Airport,"Arica, CL",1605,Diego Aracena Airport,"Iquique, CL",1,0.8,5.0
+3958,1614,Jorge Wilsterman International Airport,"Cochabamba, BO",2517,Santa Maria Airport,"Santa Maria, BR",0,0.8,5.0
+1454,1780,Munda Airport,"Munda, SB",1783,Sege Airport,"Sege, SB",1,0.7,5.0
+2926,1824,Tangshan Sannühe Airport,"Tangshan, CN",3350,Guyuan Liupanshan Airport,"Guyuan, CN",0,0.7,5.0
+4301,1049,Jinggangshan Airport,"Ji'an, CN",2887,Labuan Airport,"Labuan, MY",0,0.7,5.0
+2339,1360,"Sumburgh Airport, Shetland Islands","Lerwick, UK",3370,"Shetland Islands, Fair Isle Airport","Fair Isle, UK",1,0.6,5.0
+3159,1240,Caen-Carpiquet Airport,"Caen/Carpiquet, FR",1859,Kangiqsualujjuaq (Georges River) Airport,"Kangiqsualujjuaq, CA",0,0.6,5.0
+2596,1333,Birsa Munda Airport,"Ranchi, IN",2402,Hualien Airport,"Hualien City, TW",0,0.2,5.0
+2648,1509,Mangshi Airport,"Luxi, CN",2888,Sandakan Airport,"Sandakan, MY",0,0.1,5.0
+3048,1722,Lilongwe International Airport,"Lilongwe, MW",2580,Barreiras Airport,"Barreiras, BR",0,0.1,5.0
+3134,2031,Arba Minch Airport,"Arba Minch, ET",2633,Sary-Arka Airport,"Karaganda, KZ",0,0.1,5.0
+3194,1665,Ain Arnat Airport,"Sétif, DZ",2725,Bukhara Airport,"Bukhara, UZ",0,0.1,5.0
+3695,1652,Umeå Airport,"Umeå, SE",3027,Semera Airport,"Semera, ET",0,0.1,5.0
+3854,1207,Malabo Airport,"Malabo, GQ",1765,Pico Airport,"Pico Island, PT",0,0.1,5.0
+3882,1120,Bahías de Huatulco International Airport,"Huatulco, MX",3175,China Bay Airport,"Trincomalee, LK",0,0.1,5.0
+3975,1796,Kiunga Airport,"Kiunga, PG",2826,Lien Khuong Airport,"Dalat, VN",0,0.1,5.0
+2931,1760,Sitia Airport,"Crete Island, GR",2143,Zonguldak Airport,"Zonguldak, TR",0,1.0,4.5
+563,1086,Martha's Vineyard Airport,"Martha's Vineyard, US",2078,New Bedford Regional Airport,"New Bedford, US",1,0.9,4.5
+875,1299,Jyvaskyla Airport,"Jyväskylän Maalaiskunta, FI",1453,Sundsvall-Härnösand Airport,"Sundsvall/ Härnösand, SE",1,0.9,4.5
+2808,2445,"Malay, Godofredo P. Ramos Airport","Caticlan, PH",2956,Dali Airport,"Xiaguan, CN",0,0.5,4.5
+2902,537,Durham Tees Valley Airport,"Durham, UK",815,Egal International Airport,"Hargeisa, SO",0,0.5,4.5
+2900,530,Wilmington International Airport,"Wilmington, US",2079,Grand Canyon National Park Airport,"Grand Canyon, US",0,0.4,4.5
+1148,1763,Horta Airport,"Horta, PT",2126,Flores Airport,"Santa Cruz das Flores, PT",1,0.3,4.5
+2992,368,Rick Husband Amarillo International Airport,"Amarillo, US",3313,Fort Worth Alliance Airport,"Fort Worth, US",0,0.3,4.5
+3858,870,Rogue Valley International Medford Airport,"Medford, US",965,Muskegon County Airport,"Muskegon, US",0,0.3,4.5
+2923,1291,Terrance B. Lettsome International Airport,"Road Town, VG",3335,St. Helena Airport,"Jamestown, SH",0,0.2,4.5
+2831,210,"George Town, Exuma International Airport","George Town, BS",1728,Gabès Matmata International Airport,"Gabès, TN",0,0.1,4.5
+2950,1209,Badajoz Airport,"Badajoz, ES",1437,Kuujjuarapik Airport,"Kuujjuarapik, CA",0,0.1,4.5
+3001,1662,Kittila Airport,"Kittila, FI",2746,Belgaum Airport,"Belgaum, IN",0,0.1,4.5
+3715,929,Branson Airport,"Branson, US",3246,Keewaywin Airport,"Keewaywin, CA",0,0.1,4.5
+3889,370,Brownsville South Padre Island International Airport,"Brownsville, US",1578,Presidente Castro Pinto International Airport,"João Pessoa, BR",0,0.1,4.5
+2043,2785,Paro Airport,"Paro, BT",3377,Gaya Airport,"Gaya, IN",1,0.0,4.5
+2685,1427,Dinard-Pleurtuit-Saint-Malo Airport,"Dinard/Pleurtuit/Saint-Malo, FR",1675,Castres-Mazamet Airport,"Castres/Mazamet, FR",0,1.0,4.0
+3424,1491,Xilinhot Airport,"Xilinhot, CN",2945,Jiayuguan Airport,"Jiayuguan, CN",0,1.0,4.0
+1284,1408,"Kirkenes Airport, Høybuktmoen","Kirkenes, NO",1960,"Vardø Airport, Svartnes","Vardø, NO",1,0.9,4.0
+1323,2071,Jinchuan Airport,"Jinchang, CN",2945,Jiayuguan Airport,"Jiayuguan, CN",1,0.9,4.0
+2113,1780,Munda Airport,"Munda, SB",1788,Ramata Airport,"Ramata, SB",1,0.9,4.0
+4398,1422,Skellefteå Airport,"Skellefteå, SE",2113,Saint-Étienne-Bouthéon Airport,"Saint-Étienne/Bouthéon, FR",0,0.6,4.0
+3383,2753,Imphal Airport,"Imphal, IN",3048,Kawthoung Airport,"Kawthoung, MM",0,0.5,4.0
+3569,2721,Fergana International Airport,"Fergana, UZ",3359,Hongyuan Aba  Airport,"Hongyuan, CN",0,0.4,4.0
+2607,2402,Hualien Airport,"Hualien City, TW",3404,Robe Airport,"Goba, ET",0,0.2,4.0
+2731,1545,Manuel Márquez de León International Airport,"La Paz, MX",1617,Capitan FAP Jose A Quinones Gonzales International Airport,"Chiclayo, PE",0,0.2,4.0
+4183,1720,Victoria Falls International Airport,"Victoria Falls, ZW",2066,Arua Airport,"Arua, UG",0,0.2,4.0
+1416,2470,General E. Mosconi Airport,"Comodoro Rivadavia, AR",2471,Brigadier Antonio Parodi Airport,"Esquel, AR",1,0.1,4.0
+2611,1049,Jinggangshan Airport,"Ji'an, CN",3441,Al Alamein International Airport,"Dabaa, EG",0,0.1,4.0
+2806,1954,"Rørvik Airport, Ryum","Rørvik, NO",3189,Persian Gulf International Airport,"Asalouyeh, IR",0,0.1,4.0
+2830,1572,Cataratas International Airport,"Foz Do Iguaçu, BR",2461,Capitan V A Almonacid Airport,"La Rioja, AR",0,0.1,4.0
+3524,1634,Dourados Airport,"Dourados, BR",2045,Sohag International Airport,"Sohag, EG",0,0.1,4.0
+4123,985,Griffith Airport,"Griffith, AU",2861,Iskandar Airport,"Pangkalanbun-Borneo Island, ID",0,0.1,4.0
+4458,1069,Grand Forks International Airport,"Grand Forks, US",1307,Pori Airport,"Pori, FI",0,0.1,4.0
+2859,1332,Lok Nayak Jayaprakash Airport,"Patna, IN",2745,Yining Airport,"Yining, CN",0,1.0,3.5
+4256,1444,Fort Smith Airport,"Fort Smith, CA",1850,Gjoa Haven Airport,"Gjoa Haven, CA",0,1.0,3.5
+4372,2754,Silchar Airport,"Silchar, IN",2810,Udon Thani Airport,"Udon Thani, TH",0,1.0,3.5
+1515,3162,Kasabonika Airport,"Kasabonika, CA",3230,Big Trout Lake Airport,"Big Trout Lake, CA",1,0.8,3.5
+1053,1981,Toamasina Airport,"Toamasina, MG",3165,Mananara Nord Airport,"Mananara Nord, MG",1,0.5,3.5
+3154,907,Provo Municipal Airport,"Provo, US",2351,St Michael Airport,"St Michael, US",0,0.5,3.5
+1816,1817,Dangriga Airport,"Dangriga, BZ",1818,Placencia Airport,"Placencia, BZ",1,0.4,3.5
+3500,1180,Lamerd Airport,"Lamerd, IR",2779,Vijayawada Airport,"Vijayawada, IN",0,0.3,3.5
+3242,1734,Kassel-Calden Airport,"Kassel, DE",1745,Dimokritos Airport,"Alexandroupolis, GR",0,0.2,3.5
+3265,1675,Castres-Mazamet Airport,"Castres/Mazamet, FR",1942,Bornholm Airport,"Rønne, DK",0,0.2,3.5
+3431,1212,San Sebastian Airport,"Hondarribia, ES",2137,Transilvania Târgu Mureş International Airport,"Târgu Mureş, RO",0,0.2,3.5
+3641,2656,Sokol Airport,"Magadan, RU",2892,Radin Inten II (Branti) Airport,"Bandar Lampung-Sumatra Island, ID",0,0.2,3.5
+3663,1140,North Bay Airport,"North Bay, CA",1408,"Kirkenes Airport, Høybuktmoen","Kirkenes, NO",0,0.2,3.5
+4319,1469,Cloncurry Airport,"Cloncurry, AU",1515,Jiujiang Lushan Airport,"Jiujiang, CN",0,0.2,3.5
+3762,1905,Bobo Dioulasso Airport,"Bobo Dioulasso, BF",2576,Juana Azurduy De Padilla Airport,"Sucre, BO",0,0.1,3.5
+629,1898,Touat Cheikh Sidi Mohamed Belkebir Airport,"Adrar, DZ",3080,Bordj Badji Mokhtar Airport,"Bordj Badji Mokhtar, DZ",1,0.0,3.5
+2979,2278,Abadan Airport,"Abadan, IR",2644,Gabala International Airport,"Gabala, AZ",0,1.0,3.0
+3189,525,Augusta Regional At Bush Field,"Augusta, US",2077,South Arkansas Regional At Goodwin Field,"El Dorado, US",0,1.0,3.0
+4255,2442,Bacolod-Silay City International Airport,"Bacolod City, PH",3124,Long Banga Airport,"Long Banga, MY",0,1.0,3.0
+4427,2494,Bonito Airport,"Bonito, BR",2576,Juana Azurduy De Padilla Airport,"Sucre, BO",0,1.0,3.0
+241,1850,Gjoa Haven Airport,"Gjoa Haven, CA",1884,Taloyoak Airport,"Taloyoak, CA",1,0.9,3.0
+360,2888,Sandakan Airport,"Sandakan, MY",2889,Kudat Airport,"Kudat, MY",1,0.9,3.0
+803,1615,Cap FAP David Abenzur Rengifo International Airport,"Pucallpa, PE",1629,Cadete FAP Guillermo Del Castillo Paredes Airport,"Tarapoto, PE",1,0.9,3.0
+849,1750,Kalymnos Airport,"Kalymnos Island, GR",1752,Leros Airport,"Leros Island, GR",1,0.9,3.0
+1507,3247,Poplar Hill Airport,"Poplar Hill, CA",3248,North Spirit Lake Airport,"North Spirit Lake, CA",1,0.9,3.0
+3347,888,Merced Regional Macready Field,"Merced, US",918,Helena Regional Airport,"Helena, US",0,0.9,3.0
+4224,1601,Desierto de Atacama Airport,"Copiapo, CL",2569,El Caraño Airport,"Quibdó, CO",0,0.8,3.0
+541,1283,Ketchikan International Airport,"Ketchikan, US",2348,Klawock Airport,"Klawock, US",1,0.7,3.0
+2827,1183,Konarak Airport,"Chabahar, IR",3026,Tuticorin Southwest Airport,"Thoothukudi, IN",0,0.7,3.0
+2673,613,Kalamazoo Battle Creek International Airport,"Kalamazoo, US",2619,L'Espérance Airport,"Grand Case, MF",0,0.6,3.0
+3226,1223,Klagenfurt Airport,"Klagenfurt am Wörthersee, AT",1929,Gloucestershire Airport,"Staverton, UK",0,0.5,3.0
+3345,2021,Dakhla Airport,"Dakhla, EH",2521,Paulo Afonso Airport,"Paulo Afonso, BR",0,0.3,3.0
+2439,915,Gillette Campbell County Airport,"Gillette, US",923,Rock Springs Sweetwater County Airport,"Rock Springs, US",1,0.2,3.0
+2629,2114,Avignon-Caumont Airport,"Avignon/Caumont, FR",3227,Natuashish Airport,"Natuashish, CA",0,0.2,3.0
+3252,1717,Chingozi Airport,"Tete, MZ",3488,Bursa Yenişehir Airport,"Bursa, TR",0,0.2,3.0
+4268,873,Southwest Oregon Regional Airport,"North Bend, US",2114,Avignon-Caumont Airport,"Avignon/Caumont, FR",0,0.2,3.0
+3271,1340,Kanpur Airport,"Kanpur, IN",2044,Assiut International Airport,"Assiut, EG",0,0.1,3.0
+3609,2704,Sovetskiy Airport,"Sovetskiy, RU",3316,Kanas Airport,"Burqin County, CN",0,0.1,3.0
+3620,961,Duluth International Airport,"Duluth, US",3093,Corozal Municipal Airport,"Corozal, BZ",0,0.1,3.0
+3983,961,Duluth International Airport,"Duluth, US",3215,Tête-à-la-Baleine Airport,"Tête-à-la-Baleine, CA",0,0.1,3.0
+4094,1841,Fort Hope Airport,"Fort Hope, CA",1873,Sanikiluaq Airport,"Sanikiluaq, CA",0,0.1,3.0
+2666,2964,Anshun Huangguoshu Airport,"Anshun, CN",3349,Golog Maqin Airport,"Golog, CN",0,1.0,2.5
+3303,2779,Vijayawada Airport,"Vijayawada, IN",2781,Mysore Airport,"Mysore, IN",0,1.0,2.5
+3733,1152,Tweed New Haven Airport,"New Haven, US",2078,New Bedford Regional Airport,"New Bedford, US",0,1.0,2.5
+3260,1422,Skellefteå Airport,"Skellefteå, SE",1926,Augsburg Airport,"Augsburg, DE",0,0.9,2.5
+3554,1015,Wynyard Airport,"Burnie, AU",3086,Birdsville Airport,"Birdsville, AU",0,0.9,2.5
+686,2841,Sittwe Airport,"Sittwe, MM",2842,Thandwe Airport,"Thandwe, MM",1,0.8,2.5
+3417,2414,Yeosu Airport,"Yeosu, KR",2939,Lingling Airport,"Yongzhou, CN",0,0.8,2.5
+2959,2307,Panjgur Airport,"Panjgur, PK",2723,Nukus Airport,"Nukus, UZ",0,0.7,2.5
+2325,2457,Suboficial Ay Santiago Germano Airport,"San Rafael, AR",2464,Brigadier Mayor D Cesar Raul Ojeda Airport,"San Luis, AR",1,0.6,2.5
+3949,528,Fayetteville Regional Grannis Field,"Fayetteville, US",1639,Medicine Hat Airport,"Medicine Hat, CA",0,0.5,2.5
+1082,1933,Stronsay Airport,"Stronsay, UK",1934,Sanday Airport,"Sanday, UK",1,0.4,2.5
+2816,1796,Kiunga Airport,"Kiunga, PG",2817,Nakhon Phanom Airport,"Nakhon Phanom, TH",0,0.4,2.5
+3989,2329,Eek Airport,"Eek, US",3244,Deer Lake Airport,"Deer Lake, CA",0,0.4,2.5
+2669,2046,Aswan International Airport,"Aswan, EG",2141,Amasya Merzifon Airport,"Amasya, TR",0,0.3,2.5
+3078,1631,Padre Aldamiz International Airport,"Puerto Maldonado, PE",2212,Matei Airport,"Matei, FJ",0,0.3,2.5
+3203,1664,Soummam Airport,"Béjaïa, DZ",3388,Portimao Airport,"Portimao, PT",0,0.3,2.5
+4242,1158,Bradford Regional Airport,"Bradford, US",2339,Hooper Bay Airport,"Hooper Bay, US",0,0.3,2.5
+2844,1413,"Svalbard Airport, Longyear","Longyearbyen, NO",1835,Kangirsuk Airport,"Kangirsuk, CA",0,0.2,2.5
+3824,2301,Dera Ghazi Khan Airport,"Dera Ghazi Khan, PK",2754,Silchar Airport,"Silchar, IN",0,0.2,2.5
+3980,1789,Buka Airport,"Buka Island, PG",2885,Bario Airport,"Bario, MY",0,0.2,2.5
+4239,652,Waterloo Airport,"Kitchener, CA",1254,Cranbrook Airport,"Cranbrook, CA",0,0.2,2.5
+1977,3051,Kulusuk Airport,"Kulusuk, GL",3091,Neerlerit Inaat Airport,"Neerlerit Inaat, GL",1,0.1,2.5
+2687,1556,Tapachula International Airport,"Tapachula, MX",1861,Umiujaq Airport,"Umiujaq, CA",0,0.1,2.5
+2833,2651,Tiksi Airport,"Tiksi, RU",3350,Guyuan Liupanshan Airport,"Guyuan, CN",0,0.1,2.5
+3035,1634,Dourados Airport,"Dourados, BR",2006,Lichinga Airport,"Lichinga, MZ",0,0.1,2.5
+3061,2511,Brigadeiro Lysias Rodrigues Airport,"Palmas, BR",3323,Telluride Regional Airport,"Telluride, US",0,0.1,2.5
+3099,621,Golden Triangle Regional Airport,"Columbus/W Point/Starkville, US",1885,Churchill Airport,"Churchill, CA",0,0.1,2.5
+3116,989,Avalon Airport,"Melbourne, AU",3123,Manda Airstrip,"Lamu, KE",0,0.1,2.5
+3117,537,Durham Tees Valley Airport,"Durham, UK",2050,Kisumu Airport,"Kisumu, KE",0,0.1,2.5
+3123,364,Alexandria International Airport,"Alexandria, US",2176,Bocas Del Toro International Airport,"Isla Colón, PA",0,0.1,2.5
+3197,1641,Jönköping Airport,"Jönköping, SE",3071,Alakanuk Airport,"Alakanuk, US",0,0.1,2.5
+3536,1835,Kangirsuk Airport,"Kangirsuk, CA",3168,Usinsk Airport,"Usinsk, RU",0,0.1,2.5
+3671,634,Valdosta Regional Airport,"Valdosta, US",1862,Natashquan Airport,"Natashquan, CA",0,0.1,2.5
+3899,1766,Porto Santo Airport,"Vila Baleira, PT",2089,Los Alamos Airport,"Los Alamos, US",0,0.1,2.5
+4051,1443,Grande Prairie Airport,"Grande Prairie, CA",2362,Ruby Airport,"Ruby, US",0,0.1,2.5
+4240,1234,Lugano Airport,"Lugano, CH",3482,Ust-Maya Airport,"Ust-Maya, RU",0,0.1,2.5
+2662,2358,Pilot Point Airport,"Pilot Point, US",2618,Takotna Airport,"Takotna, US",0,1.0,2.0
+2776,2542,Camilo Daza International Airport,"Cúcuta, CO",3340,John A. Osborne Airport,"Gerald's Park, MS",0,1.0,2.0
+3269,1641,Jönköping Airport,"Jönköping, SE",3374,Nordholz-Spieka,"Cuxhaven, DE",0,1.0,2.0
+3746,2530,Coronel E Carvajal Airport,"Macas, EC",2603,Mayor Buenaventura Vivas International Airport,"Santo Domingo, VE",0,1.0,2.0
+4137,2286,Birjand Airport,"Birjand, IR",3186,Zhob Airport,"Fort Sandeman, PK",0,1.0,2.0
+4262,1728,Gabès Matmata International Airport,"Gabès, TN",1891,Cheikh Larbi Tébessi Airport,"Tébessi, DZ",0,1.0,2.0
+4335,1803,Moro Airport,"Moro, PG",3132,Mopah Airport,"Merauke-Papua Island, ID",0,1.0,2.0
+1557,2618,Takotna Airport,"Takotna, US",2983,Tatalina LRRS Airport,"Takotna, US",1,0.9,2.0
+3817,1073,Alpena County Regional Airport,"Alpena, US",3223,Kangiqsujuaq (Wakeham Bay) Airport,"Kangiqsujuaq, CA",0,0.9,2.0
+3942,2744,Saransk Airport,"Saransk, RU",3190,Parsabade Moghan Airport,"Parsabad, IR",0,0.9,2.0
+4082,364,Alexandria International Airport,"Alexandria, US",3104,Capitán de Av. Emilio Beltrán Airport,"Guayaramerín, BO",0,0.7,2.0
+4433,200,"Berlin, Tegel International Airport *Closed*","Berlin, DE",3212,Sde Dov Airport,"Tel Aviv, IL",0,0.7,2.0
+3218,1954,"Rørvik Airport, Ryum","Rørvik, NO",2729,Tunoshna Airport,"Yaroslavl, RU",0,0.5,2.0
+3409,377,Columbia Regional Airport,"Columbia, US",3444,Tamuin National Airport,"Tamuin, MX",0,0.5,2.0
+3809,911,Canyonlands Field,"Moab, US",1848,Gillam Airport,"Gillam, CA",0,0.3,2.0
+1630,3385,Cascais Airport,"Cascais, PT",3387,Viseu Airport,"Viseu, PT",1,0.2,2.0
+3624,2748,Sigiriya Air Force Base,"Sigiriya, LK",2923,McArthur River Mine Airport,"McArthur River Mine, AU",0,0.2,2.0
+4218,2425,Bancasi Airport,"Butuan City, PH",3048,Kawthoung Airport,"Kawthoung, MM",0,0.2,2.0
+2683,2443,Calbayog Airport,"Calbayog City, PH",2804,Narathiwat Airport,"Narathiwat, TH",0,0.1,2.0
+3572,2987,Red Devil Airport,"Red Devil, US",3216,Sachigo Lake Airport,"Sachigo Lake, CA",0,0.1,2.0
+3598,766,Izumo Airport,"Izumo, JP",2858,Kasiguncu Airport,"Poso-Celebes Island, ID",0,0.1,2.0
+3672,2784,Tirupati Airport,"Tirupati, IN",3386,Vila Real Airport,"Vila Real, PT",0,0.1,2.0
+3678,1026,Paraparaumu Airport,"Paraparaumu, NZ",2257,Dillon's Bay Airport,"Dillon's Bay, VU",0,0.1,2.0
+3859,1651,Kiruna Airport,"Kiruna, SE",3219,Kegaska Airport,"Kegaska, CA",0,0.1,2.0
+3901,1063,Hagerstown Regional Richard A Henson Field,"Hagerstown, US",2999,Totegegie Airport,"Mangareva, PF",0,0.1,2.0
+4059,2009,Luderitz Airport,"Luderitz, nan",2477,Ástor Piazzola International Airport,"Mar del Plata, AR",0,0.1,2.0
+4066,1012,Mount Gambier Airport,"Mount Gambier, AU",3123,Manda Airstrip,"Lamu, KE",0,0.1,2.0
+4290,3310,Sirnak Airport,"Sirnak, TR",3358,Delingha Airport,"Delingha, CN",0,0.1,2.0
+4313,873,Southwest Oregon Regional Airport,"North Bend, US",1212,San Sebastian Airport,"Hondarribia, ES",0,0.1,2.0
+4329,1637,Red Deer Regional Airport,"Red Deer, CA",1679,Lannion-Côte de Granit Airport,"Lannion, FR",0,0.1,2.0
+4341,2302,Dera Ismael Khan Airport,"Dera Ismael Khan, PK",3325,Ulyanovsk East Airport,"Ulyanovsk, RU",0,0.1,2.0
+4423,1101,Iliamna Airport,"Iliamna, US",1835,Kangirsuk Airport,"Kangirsuk, CA",0,0.1,2.0
+432,2566,Eduardo Falla Solano Airport,"San Vicente Del Caguán, CO",3064,Araracuara Airport,"Araracuara, CO",1,0.0,2.0
+562,936,Cheyenne Regional Jerry Olson Field,"Cheyenne, US",2108,Worland Municipal Airport,"Worland, US",1,0.0,2.0
+4368,1674,Périgueux-Bassillac Airport,"Périgueux/Bassillac, FR",1890,Mecheria Airport,"Mecheria, DZ",0,1.0,1.5
+3107,1912,Benin Airport,"Benin, NG",1971,N'Gaoundéré Airport,"N'Gaoundéré, CM",0,0.9,1.5
+4054,2969,Liping Airport,"Liping, CN",3462,Sanhe Airport,"Yueyang, CN",0,0.9,1.5
+624,3385,Cascais Airport,"Cascais, PT",3388,Portimao Airport,"Portimao, PT",1,0.8,1.5
+2580,419,Roswell International Air Center Airport,"Roswell, US",1870,Rae Lakes Airport,"Gamètì, CA",0,0.6,1.5
+2627,2439,Virac Airport,"Virac, PH",2838,Kyaukpyu Airport,"Kyaukpyu, MM",0,0.3,1.5
+3862,426,Sheppard Air Force Base-Wichita Falls Municipal Airport,"Wichita Falls, US",2192,Edward Bodden Airfield,"Little Cayman, KY",0,0.3,1.5
+3937,2325,Chefornak Airport,"Chefornak, US",3220,Arctic Village Airport,"Arctic Village, US",0,0.3,1.5
+3072,1801,Mendi Airport,"Mendi, PG",3352,Huatugou Airport,"Huatugou, CN",0,0.2,1.5
+3885,2825,Dien Bien Phu Airport,"Dien Bien Phu, VN",3262,Dumatumbun Airport,"Langgur-Seram Island, ID",0,0.2,1.5
+4128,2984,Igiugig Airport,"Igiugig, US",3114,Kaltag Airport,"Kaltag, US",0,0.2,1.5
+2858,2089,Los Alamos Airport,"Los Alamos, US",2934,Birch Creek Airport,"Birch Creek, US",0,0.1,1.5
+2924,1906,Tamale Airport,"Tamale, GH",3026,Tuticorin Southwest Airport,"Thoothukudi, IN",0,0.1,1.5
+3231,2051,Lodwar Airport,"Lodwar, KE",3335,St. Helena Airport,"Jamestown, SH",0,0.1,1.5
+3378,2986,Cherif Al Idrissi Airport,"Al Hoceima, MA",3042,Wamena Airport,"Wamena-Papua Island, ID",0,0.1,1.5
+3399,1361,Wick Airport,"Wick, UK",2105,Teterboro Airport,"Teterboro, US",0,0.1,1.5
+3513,966,Barkley Regional Airport,"Paducah, US",1636,Lloydminster Airport,"Lloydminster, CA",0,0.1,1.5
+3587,1090,Rutland - Southern Vermont Regional Airport,"Rutland, US",3036,Los Colonizadores Airport,"Saravena, CO",0,0.1,1.5
+3651,873,Southwest Oregon Regional Airport,"North Bend, US",1096,Adak Airport,"Adak Island, US",0,0.1,1.5
+3654,1030,Whakatane Airport,"Whakatane, NZ",2176,Bocas Del Toro International Airport,"Isla Colón, PA",0,0.1,1.5
+4448,2403,Matsumoto Airport,"Matsumoto, JP",2821,Cà Mau Airport,"Ca Mau City, VN",0,0.1,1.5
+4072,867,Chico Municipal Airport,"Chico, US",1273,Pangborn Memorial Airport,"Wenatchee, US",0,1.0,1.0
+3520,2366,Selawik Airport,"Selawik, US",2420,Rampart Airport,"Rampart, US",0,0.7,1.0
+4236,2878,Limbang Airport,"Limbang, MY",3077,Bakalalan Airport,"Bakalalan, MY",0,0.7,1.0
+3437,2925,Olympic Dam Airport,"Olympic Dam, AU",3132,Mopah Airport,"Merauke-Papua Island, ID",0,0.4,1.0
+2988,2213,Rotuma Airport,"Rotuma, FJ",2245,Sara Airport,"Pentecost Island, VU",0,0.3,1.0
+3619,2502,Chapada Diamantina Airport,"Lençóis, BR",3455,Barra do Garças Airport,"Barra Do Garças, BR",0,0.3,1.0
+4246,2585,Cacoal Airport,"Cacoal, BR",2597,Oro Negro Airport,"Cabimas, VE",0,0.2,1.0
+2941,1696,Margate Airport,"Margate, ZA",3126,Lokichoggio Airport,"Lokichoggio, KE",0,0.1,1.0
+4083,2554,Fabio Alberto Leon Bentley Airport,"Mitú, CO",3290,San Felipe International Airport,"San Felipe, MX",0,0.1,1.0
+3874,3422,In Guezzam Airport,"In Guezzam, DZ",3470,Santa Ana Airport,"Cartago, CO",0,0.1,0.5
